@@ -1,0 +1,1792 @@
+{
+  "documents": [
+    {
+      "key": "jc30-source-l01.pdf",
+      "resourceUrl": "/resources/book-packs/jc30-source-l01.pdf",
+      "title": "基础30讲 第1讲：函数极限与连续（原书扫描页）",
+      "pages": 51,
+      "bytes": 10729133
+    },
+    {
+      "key": "jc30-source-l02.pdf",
+      "resourceUrl": "/resources/book-packs/jc30-source-l02.pdf",
+      "title": "基础30讲 第2讲：数列极限（原书扫描页）",
+      "pages": 37,
+      "bytes": 8158546
+    },
+    {
+      "key": "jc30-source-l03.pdf",
+      "resourceUrl": "/resources/book-packs/jc30-source-l03.pdf",
+      "title": "基础30讲 第3讲：一元函数微分学的概念（原书扫描页）",
+      "pages": 27,
+      "bytes": 6763033
+    },
+    {
+      "key": "jc30-source-l04.pdf",
+      "resourceUrl": "/resources/book-packs/jc30-source-l04.pdf",
+      "title": "基础30讲 第4讲：一元函数微分学的计算（原书扫描页）",
+      "pages": 36,
+      "bytes": 5318739
+    },
+    {
+      "key": "jc30-source-l05.pdf",
+      "resourceUrl": "/resources/book-packs/jc30-source-l05.pdf",
+      "title": "基础30讲 第5讲：一元函数微分学的应用（一）——几何应用（原书扫描页）",
+      "pages": 35,
+      "bytes": 8227569
+    },
+    {
+      "key": "jc30-source-l06.pdf",
+      "resourceUrl": "/resources/book-packs/jc30-source-l06.pdf",
+      "title": "基础30讲 第6讲：一元函数微分学的应用（二）——中值定理、微分等式与微分不等式（原书扫描页）",
+      "pages": 40,
+      "bytes": 7548964
+    },
+    {
+      "key": "jc30-source-l07.pdf",
+      "resourceUrl": "/resources/book-packs/jc30-source-l07.pdf",
+      "title": "基础30讲 第7讲：一元函数微分学的应用（三）——物理应用与经济应用（原书扫描页）",
+      "pages": 11,
+      "bytes": 2197907
+    },
+    {
+      "key": "jc30-source-l08.pdf",
+      "resourceUrl": "/resources/book-packs/jc30-source-l08.pdf",
+      "title": "基础30讲 第8讲：一元函数积分学的概念与性质（原书扫描页）",
+      "pages": 52,
+      "bytes": 13996387
+    },
+    {
+      "key": "jc30-source-l09.pdf",
+      "resourceUrl": "/resources/book-packs/jc30-source-l09.pdf",
+      "title": "基础30讲 第9讲：一元函数积分学的计算（原书扫描页）",
+      "pages": 58,
+      "bytes": 9343445
+    },
+    {
+      "key": "jc30-source-l10.pdf",
+      "resourceUrl": "/resources/book-packs/jc30-source-l10.pdf",
+      "title": "基础30讲 第10讲：一元函数积分学的应用（一）——几何应用（原书扫描页）",
+      "pages": 31,
+      "bytes": 5159358
+    },
+    {
+      "key": "jc30-source-l11.pdf",
+      "resourceUrl": "/resources/book-packs/jc30-source-l11.pdf",
+      "title": "基础30讲 第11讲：一元函数积分学的应用（二）——积分等式与积分不等式（原书扫描页）",
+      "pages": 23,
+      "bytes": 3398456
+    },
+    {
+      "key": "jc30-source-l12.pdf",
+      "resourceUrl": "/resources/book-packs/jc30-source-l12.pdf",
+      "title": "基础30讲 第12讲：一元函数积分学的应用（三）——物理应用与经济应用（原书扫描页）",
+      "pages": 16,
+      "bytes": 2496746
+    },
+    {
+      "key": "jc30-source-l13.pdf",
+      "resourceUrl": "/resources/book-packs/jc30-source-l13.pdf",
+      "title": "基础30讲 第13讲：多元函数微分学（原书扫描页）",
+      "pages": 53,
+      "bytes": 10452041
+    },
+    {
+      "key": "jc30-source-l14.pdf",
+      "resourceUrl": "/resources/book-packs/jc30-source-l14.pdf",
+      "title": "基础30讲 第14讲：二重积分（原书扫描页）",
+      "pages": 52,
+      "bytes": 10390990
+    },
+    {
+      "key": "jc30-source-l15.pdf",
+      "resourceUrl": "/resources/book-packs/jc30-source-l15.pdf",
+      "title": "基础30讲 第15讲：微分方程（原书扫描页）",
+      "pages": 54,
+      "bytes": 10664485
+    },
+    {
+      "key": "jc30-source-l16.pdf",
+      "resourceUrl": "/resources/book-packs/jc30-source-l16.pdf",
+      "title": "基础30讲 第16讲：无穷级数（仅数学一、数学三）（原书扫描页）",
+      "pages": 88,
+      "bytes": 18900214
+    },
+    {
+      "key": "jc30-source-l17.pdf",
+      "resourceUrl": "/resources/book-packs/jc30-source-l17.pdf",
+      "title": "基础30讲 第17讲：多元函数积分学的预备知识（仅数学一）（原书扫描页）",
+      "pages": 35,
+      "bytes": 6222521
+    },
+    {
+      "key": "jc30-source-l18.pdf",
+      "resourceUrl": "/resources/book-packs/jc30-source-l18.pdf",
+      "title": "基础30讲 第18讲：多元函数积分学（仅数学一）（原书扫描页）",
+      "pages": 77,
+      "bytes": 16153676
+    }
+  ],
+  "questions": {
+    "jc30-l01-019": {
+      "key": "jc30-source-l01.pdf",
+      "firstPage": 1,
+      "pageCount": 2
+    },
+    "jc30-l01-020": {
+      "key": "jc30-source-l01.pdf",
+      "firstPage": 3,
+      "pageCount": 1
+    },
+    "jc30-l01-021": {
+      "key": "jc30-source-l01.pdf",
+      "firstPage": 4,
+      "pageCount": 4
+    },
+    "jc30-l01-022": {
+      "key": "jc30-source-l01.pdf",
+      "firstPage": 8,
+      "pageCount": 1
+    },
+    "jc30-l01-023": {
+      "key": "jc30-source-l01.pdf",
+      "firstPage": 9,
+      "pageCount": 7
+    },
+    "jc30-l01-024": {
+      "key": "jc30-source-l01.pdf",
+      "firstPage": 16,
+      "pageCount": 2
+    },
+    "jc30-l01-025": {
+      "key": "jc30-source-l01.pdf",
+      "firstPage": 18,
+      "pageCount": 2
+    },
+    "jc30-l01-026": {
+      "key": "jc30-source-l01.pdf",
+      "firstPage": 20,
+      "pageCount": 1
+    },
+    "jc30-l01-027": {
+      "key": "jc30-source-l01.pdf",
+      "firstPage": 21,
+      "pageCount": 2
+    },
+    "jc30-l01-028": {
+      "key": "jc30-source-l01.pdf",
+      "firstPage": 23,
+      "pageCount": 3
+    },
+    "jc30-l01-029": {
+      "key": "jc30-source-l01.pdf",
+      "firstPage": 26,
+      "pageCount": 2
+    },
+    "jc30-l01-030": {
+      "key": "jc30-source-l01.pdf",
+      "firstPage": 28,
+      "pageCount": 2
+    },
+    "jc30-l01-031": {
+      "key": "jc30-source-l01.pdf",
+      "firstPage": 30,
+      "pageCount": 1
+    },
+    "jc30-l01-032": {
+      "key": "jc30-source-l01.pdf",
+      "firstPage": 31,
+      "pageCount": 2
+    },
+    "jc30-l01-033": {
+      "key": "jc30-source-l01.pdf",
+      "firstPage": 33,
+      "pageCount": 1
+    },
+    "jc30-l01-034": {
+      "key": "jc30-source-l01.pdf",
+      "firstPage": 34,
+      "pageCount": 2
+    },
+    "jc30-l01-035": {
+      "key": "jc30-source-l01.pdf",
+      "firstPage": 36,
+      "pageCount": 5
+    },
+    "jc30-l01-036": {
+      "key": "jc30-source-l01.pdf",
+      "firstPage": 41,
+      "pageCount": 1
+    },
+    "jc30-l01-037": {
+      "key": "jc30-source-l01.pdf",
+      "firstPage": 42,
+      "pageCount": 2
+    },
+    "jc30-l01-038": {
+      "key": "jc30-source-l01.pdf",
+      "firstPage": 44,
+      "pageCount": 8
+    },
+    "jc30-l02-001": {
+      "key": "jc30-source-l02.pdf",
+      "firstPage": 1,
+      "pageCount": 2
+    },
+    "jc30-l02-002": {
+      "key": "jc30-source-l02.pdf",
+      "firstPage": 3,
+      "pageCount": 2
+    },
+    "jc30-l02-003": {
+      "key": "jc30-source-l02.pdf",
+      "firstPage": 5,
+      "pageCount": 1
+    },
+    "jc30-l02-004": {
+      "key": "jc30-source-l02.pdf",
+      "firstPage": 6,
+      "pageCount": 2
+    },
+    "jc30-l02-005": {
+      "key": "jc30-source-l02.pdf",
+      "firstPage": 8,
+      "pageCount": 2
+    },
+    "jc30-l02-006": {
+      "key": "jc30-source-l02.pdf",
+      "firstPage": 10,
+      "pageCount": 2
+    },
+    "jc30-l02-007": {
+      "key": "jc30-source-l02.pdf",
+      "firstPage": 12,
+      "pageCount": 2
+    },
+    "jc30-l02-008": {
+      "key": "jc30-source-l02.pdf",
+      "firstPage": 14,
+      "pageCount": 3
+    },
+    "jc30-l02-009": {
+      "key": "jc30-source-l02.pdf",
+      "firstPage": 17,
+      "pageCount": 2
+    },
+    "jc30-l02-010": {
+      "key": "jc30-source-l02.pdf",
+      "firstPage": 19,
+      "pageCount": 1
+    },
+    "jc30-l02-011": {
+      "key": "jc30-source-l02.pdf",
+      "firstPage": 20,
+      "pageCount": 3
+    },
+    "jc30-l02-012": {
+      "key": "jc30-source-l02.pdf",
+      "firstPage": 23,
+      "pageCount": 2
+    },
+    "jc30-l02-013": {
+      "key": "jc30-source-l02.pdf",
+      "firstPage": 25,
+      "pageCount": 1
+    },
+    "jc30-l02-014": {
+      "key": "jc30-source-l02.pdf",
+      "firstPage": 26,
+      "pageCount": 3
+    },
+    "jc30-l02-015": {
+      "key": "jc30-source-l02.pdf",
+      "firstPage": 29,
+      "pageCount": 2
+    },
+    "jc30-l02-016": {
+      "key": "jc30-source-l02.pdf",
+      "firstPage": 31,
+      "pageCount": 2
+    },
+    "jc30-l02-017": {
+      "key": "jc30-source-l02.pdf",
+      "firstPage": 33,
+      "pageCount": 1
+    },
+    "jc30-l02-018": {
+      "key": "jc30-source-l02.pdf",
+      "firstPage": 34,
+      "pageCount": 4
+    },
+    "jc30-l03-001": {
+      "key": "jc30-source-l03.pdf",
+      "firstPage": 1,
+      "pageCount": 2
+    },
+    "jc30-l03-002": {
+      "key": "jc30-source-l03.pdf",
+      "firstPage": 3,
+      "pageCount": 2
+    },
+    "jc30-l03-003": {
+      "key": "jc30-source-l03.pdf",
+      "firstPage": 5,
+      "pageCount": 1
+    },
+    "jc30-l03-004": {
+      "key": "jc30-source-l03.pdf",
+      "firstPage": 6,
+      "pageCount": 2
+    },
+    "jc30-l03-005": {
+      "key": "jc30-source-l03.pdf",
+      "firstPage": 8,
+      "pageCount": 1
+    },
+    "jc30-l03-006": {
+      "key": "jc30-source-l03.pdf",
+      "firstPage": 9,
+      "pageCount": 5
+    },
+    "jc30-l03-007": {
+      "key": "jc30-source-l03.pdf",
+      "firstPage": 14,
+      "pageCount": 2
+    },
+    "jc30-l03-008": {
+      "key": "jc30-source-l03.pdf",
+      "firstPage": 16,
+      "pageCount": 2
+    },
+    "jc30-l03-009": {
+      "key": "jc30-source-l03.pdf",
+      "firstPage": 18,
+      "pageCount": 3
+    },
+    "jc30-l03-010": {
+      "key": "jc30-source-l03.pdf",
+      "firstPage": 21,
+      "pageCount": 2
+    },
+    "jc30-l03-011": {
+      "key": "jc30-source-l03.pdf",
+      "firstPage": 23,
+      "pageCount": 5
+    },
+    "jc30-l04-001": {
+      "key": "jc30-source-l04.pdf",
+      "firstPage": 1,
+      "pageCount": 2
+    },
+    "jc30-l04-002": {
+      "key": "jc30-source-l04.pdf",
+      "firstPage": 3,
+      "pageCount": 1
+    },
+    "jc30-l04-003": {
+      "key": "jc30-source-l04.pdf",
+      "firstPage": 4,
+      "pageCount": 2
+    },
+    "jc30-l04-004": {
+      "key": "jc30-source-l04.pdf",
+      "firstPage": 6,
+      "pageCount": 2
+    },
+    "jc30-l04-005": {
+      "key": "jc30-source-l04.pdf",
+      "firstPage": 8,
+      "pageCount": 1
+    },
+    "jc30-l04-006": {
+      "key": "jc30-source-l04.pdf",
+      "firstPage": 9,
+      "pageCount": 3
+    },
+    "jc30-l04-007": {
+      "key": "jc30-source-l04.pdf",
+      "firstPage": 12,
+      "pageCount": 1
+    },
+    "jc30-l04-008": {
+      "key": "jc30-source-l04.pdf",
+      "firstPage": 13,
+      "pageCount": 2
+    },
+    "jc30-l04-009": {
+      "key": "jc30-source-l04.pdf",
+      "firstPage": 15,
+      "pageCount": 1
+    },
+    "jc30-l04-010": {
+      "key": "jc30-source-l04.pdf",
+      "firstPage": 16,
+      "pageCount": 2
+    },
+    "jc30-l04-011": {
+      "key": "jc30-source-l04.pdf",
+      "firstPage": 18,
+      "pageCount": 2
+    },
+    "jc30-l04-012": {
+      "key": "jc30-source-l04.pdf",
+      "firstPage": 20,
+      "pageCount": 1
+    },
+    "jc30-l04-013": {
+      "key": "jc30-source-l04.pdf",
+      "firstPage": 21,
+      "pageCount": 1
+    },
+    "jc30-l04-014": {
+      "key": "jc30-source-l04.pdf",
+      "firstPage": 22,
+      "pageCount": 2
+    },
+    "jc30-l04-015": {
+      "key": "jc30-source-l04.pdf",
+      "firstPage": 24,
+      "pageCount": 2
+    },
+    "jc30-l04-016": {
+      "key": "jc30-source-l04.pdf",
+      "firstPage": 26,
+      "pageCount": 2
+    },
+    "jc30-l04-017": {
+      "key": "jc30-source-l04.pdf",
+      "firstPage": 28,
+      "pageCount": 2
+    },
+    "jc30-l04-018": {
+      "key": "jc30-source-l04.pdf",
+      "firstPage": 30,
+      "pageCount": 2
+    },
+    "jc30-l04-019": {
+      "key": "jc30-source-l04.pdf",
+      "firstPage": 32,
+      "pageCount": 5
+    },
+    "jc30-l05-001": {
+      "key": "jc30-source-l05.pdf",
+      "firstPage": 1,
+      "pageCount": 2
+    },
+    "jc30-l05-002": {
+      "key": "jc30-source-l05.pdf",
+      "firstPage": 3,
+      "pageCount": 1
+    },
+    "jc30-l05-003": {
+      "key": "jc30-source-l05.pdf",
+      "firstPage": 4,
+      "pageCount": 1
+    },
+    "jc30-l05-004": {
+      "key": "jc30-source-l05.pdf",
+      "firstPage": 5,
+      "pageCount": 5
+    },
+    "jc30-l05-005": {
+      "key": "jc30-source-l05.pdf",
+      "firstPage": 10,
+      "pageCount": 2
+    },
+    "jc30-l05-006": {
+      "key": "jc30-source-l05.pdf",
+      "firstPage": 12,
+      "pageCount": 2
+    },
+    "jc30-l05-007": {
+      "key": "jc30-source-l05.pdf",
+      "firstPage": 14,
+      "pageCount": 1
+    },
+    "jc30-l05-008": {
+      "key": "jc30-source-l05.pdf",
+      "firstPage": 15,
+      "pageCount": 4
+    },
+    "jc30-l05-009": {
+      "key": "jc30-source-l05.pdf",
+      "firstPage": 19,
+      "pageCount": 3
+    },
+    "jc30-l05-010": {
+      "key": "jc30-source-l05.pdf",
+      "firstPage": 22,
+      "pageCount": 2
+    },
+    "jc30-l05-011": {
+      "key": "jc30-source-l05.pdf",
+      "firstPage": 24,
+      "pageCount": 2
+    },
+    "jc30-l05-012": {
+      "key": "jc30-source-l05.pdf",
+      "firstPage": 26,
+      "pageCount": 2
+    },
+    "jc30-l05-013": {
+      "key": "jc30-source-l05.pdf",
+      "firstPage": 28,
+      "pageCount": 1
+    },
+    "jc30-l05-014": {
+      "key": "jc30-source-l05.pdf",
+      "firstPage": 29,
+      "pageCount": 2
+    },
+    "jc30-l05-015": {
+      "key": "jc30-source-l05.pdf",
+      "firstPage": 31,
+      "pageCount": 5
+    },
+    "jc30-l06-001": {
+      "key": "jc30-source-l06.pdf",
+      "firstPage": 1,
+      "pageCount": 1
+    },
+    "jc30-l06-002": {
+      "key": "jc30-source-l06.pdf",
+      "firstPage": 2,
+      "pageCount": 2
+    },
+    "jc30-l06-003": {
+      "key": "jc30-source-l06.pdf",
+      "firstPage": 4,
+      "pageCount": 3
+    },
+    "jc30-l06-004": {
+      "key": "jc30-source-l06.pdf",
+      "firstPage": 7,
+      "pageCount": 1
+    },
+    "jc30-l06-005": {
+      "key": "jc30-source-l06.pdf",
+      "firstPage": 8,
+      "pageCount": 2
+    },
+    "jc30-l06-006": {
+      "key": "jc30-source-l06.pdf",
+      "firstPage": 10,
+      "pageCount": 1
+    },
+    "jc30-l06-007": {
+      "key": "jc30-source-l06.pdf",
+      "firstPage": 11,
+      "pageCount": 2
+    },
+    "jc30-l06-008": {
+      "key": "jc30-source-l06.pdf",
+      "firstPage": 13,
+      "pageCount": 1
+    },
+    "jc30-l06-009": {
+      "key": "jc30-source-l06.pdf",
+      "firstPage": 14,
+      "pageCount": 1
+    },
+    "jc30-l06-010": {
+      "key": "jc30-source-l06.pdf",
+      "firstPage": 15,
+      "pageCount": 2
+    },
+    "jc30-l06-011": {
+      "key": "jc30-source-l06.pdf",
+      "firstPage": 17,
+      "pageCount": 3
+    },
+    "jc30-l06-012": {
+      "key": "jc30-source-l06.pdf",
+      "firstPage": 20,
+      "pageCount": 1
+    },
+    "jc30-l06-013": {
+      "key": "jc30-source-l06.pdf",
+      "firstPage": 21,
+      "pageCount": 3
+    },
+    "jc30-l06-014": {
+      "key": "jc30-source-l06.pdf",
+      "firstPage": 24,
+      "pageCount": 2
+    },
+    "jc30-l06-015": {
+      "key": "jc30-source-l06.pdf",
+      "firstPage": 26,
+      "pageCount": 1
+    },
+    "jc30-l06-016": {
+      "key": "jc30-source-l06.pdf",
+      "firstPage": 27,
+      "pageCount": 1
+    },
+    "jc30-l06-017": {
+      "key": "jc30-source-l06.pdf",
+      "firstPage": 28,
+      "pageCount": 2
+    },
+    "jc30-l06-018": {
+      "key": "jc30-source-l06.pdf",
+      "firstPage": 30,
+      "pageCount": 2
+    },
+    "jc30-l06-019": {
+      "key": "jc30-source-l06.pdf",
+      "firstPage": 32,
+      "pageCount": 2
+    },
+    "jc30-l06-020": {
+      "key": "jc30-source-l06.pdf",
+      "firstPage": 34,
+      "pageCount": 2
+    },
+    "jc30-l06-021": {
+      "key": "jc30-source-l06.pdf",
+      "firstPage": 36,
+      "pageCount": 5
+    },
+    "jc30-l07-001": {
+      "key": "jc30-source-l07.pdf",
+      "firstPage": 1,
+      "pageCount": 1
+    },
+    "jc30-l07-002": {
+      "key": "jc30-source-l07.pdf",
+      "firstPage": 2,
+      "pageCount": 4
+    },
+    "jc30-l07-003": {
+      "key": "jc30-source-l07.pdf",
+      "firstPage": 6,
+      "pageCount": 2
+    },
+    "jc30-l07-004": {
+      "key": "jc30-source-l07.pdf",
+      "firstPage": 8,
+      "pageCount": 1
+    },
+    "jc30-l07-005": {
+      "key": "jc30-source-l07.pdf",
+      "firstPage": 9,
+      "pageCount": 3
+    },
+    "jc30-l08-001": {
+      "key": "jc30-source-l08.pdf",
+      "firstPage": 1,
+      "pageCount": 1
+    },
+    "jc30-l08-002": {
+      "key": "jc30-source-l08.pdf",
+      "firstPage": 2,
+      "pageCount": 13
+    },
+    "jc30-l08-003": {
+      "key": "jc30-source-l08.pdf",
+      "firstPage": 15,
+      "pageCount": 3
+    },
+    "jc30-l08-004": {
+      "key": "jc30-source-l08.pdf",
+      "firstPage": 18,
+      "pageCount": 1
+    },
+    "jc30-l08-005": {
+      "key": "jc30-source-l08.pdf",
+      "firstPage": 19,
+      "pageCount": 2
+    },
+    "jc30-l08-006": {
+      "key": "jc30-source-l08.pdf",
+      "firstPage": 21,
+      "pageCount": 1
+    },
+    "jc30-l08-007": {
+      "key": "jc30-source-l08.pdf",
+      "firstPage": 22,
+      "pageCount": 2
+    },
+    "jc30-l08-008": {
+      "key": "jc30-source-l08.pdf",
+      "firstPage": 24,
+      "pageCount": 2
+    },
+    "jc30-l08-009": {
+      "key": "jc30-source-l08.pdf",
+      "firstPage": 26,
+      "pageCount": 1
+    },
+    "jc30-l08-010": {
+      "key": "jc30-source-l08.pdf",
+      "firstPage": 27,
+      "pageCount": 4
+    },
+    "jc30-l08-011": {
+      "key": "jc30-source-l08.pdf",
+      "firstPage": 31,
+      "pageCount": 2
+    },
+    "jc30-l08-012": {
+      "key": "jc30-source-l08.pdf",
+      "firstPage": 33,
+      "pageCount": 1
+    },
+    "jc30-l08-013": {
+      "key": "jc30-source-l08.pdf",
+      "firstPage": 34,
+      "pageCount": 2
+    },
+    "jc30-l08-014": {
+      "key": "jc30-source-l08.pdf",
+      "firstPage": 36,
+      "pageCount": 4
+    },
+    "jc30-l08-015": {
+      "key": "jc30-source-l08.pdf",
+      "firstPage": 40,
+      "pageCount": 2
+    },
+    "jc30-l08-016": {
+      "key": "jc30-source-l08.pdf",
+      "firstPage": 42,
+      "pageCount": 1
+    },
+    "jc30-l08-017": {
+      "key": "jc30-source-l08.pdf",
+      "firstPage": 43,
+      "pageCount": 2
+    },
+    "jc30-l08-018": {
+      "key": "jc30-source-l08.pdf",
+      "firstPage": 45,
+      "pageCount": 2
+    },
+    "jc30-l08-019": {
+      "key": "jc30-source-l08.pdf",
+      "firstPage": 47,
+      "pageCount": 6
+    },
+    "jc30-l09-001": {
+      "key": "jc30-source-l09.pdf",
+      "firstPage": 1,
+      "pageCount": 2
+    },
+    "jc30-l09-002": {
+      "key": "jc30-source-l09.pdf",
+      "firstPage": 3,
+      "pageCount": 2
+    },
+    "jc30-l09-003": {
+      "key": "jc30-source-l09.pdf",
+      "firstPage": 5,
+      "pageCount": 4
+    },
+    "jc30-l09-004": {
+      "key": "jc30-source-l09.pdf",
+      "firstPage": 9,
+      "pageCount": 1
+    },
+    "jc30-l09-005": {
+      "key": "jc30-source-l09.pdf",
+      "firstPage": 10,
+      "pageCount": 2
+    },
+    "jc30-l09-006": {
+      "key": "jc30-source-l09.pdf",
+      "firstPage": 12,
+      "pageCount": 1
+    },
+    "jc30-l09-007": {
+      "key": "jc30-source-l09.pdf",
+      "firstPage": 13,
+      "pageCount": 2
+    },
+    "jc30-l09-008": {
+      "key": "jc30-source-l09.pdf",
+      "firstPage": 15,
+      "pageCount": 2
+    },
+    "jc30-l09-009": {
+      "key": "jc30-source-l09.pdf",
+      "firstPage": 17,
+      "pageCount": 2
+    },
+    "jc30-l09-010": {
+      "key": "jc30-source-l09.pdf",
+      "firstPage": 19,
+      "pageCount": 2
+    },
+    "jc30-l09-011": {
+      "key": "jc30-source-l09.pdf",
+      "firstPage": 21,
+      "pageCount": 3
+    },
+    "jc30-l09-012": {
+      "key": "jc30-source-l09.pdf",
+      "firstPage": 24,
+      "pageCount": 2
+    },
+    "jc30-l09-013": {
+      "key": "jc30-source-l09.pdf",
+      "firstPage": 26,
+      "pageCount": 1
+    },
+    "jc30-l09-014": {
+      "key": "jc30-source-l09.pdf",
+      "firstPage": 27,
+      "pageCount": 2
+    },
+    "jc30-l09-015": {
+      "key": "jc30-source-l09.pdf",
+      "firstPage": 29,
+      "pageCount": 1
+    },
+    "jc30-l09-016": {
+      "key": "jc30-source-l09.pdf",
+      "firstPage": 30,
+      "pageCount": 1
+    },
+    "jc30-l09-017": {
+      "key": "jc30-source-l09.pdf",
+      "firstPage": 31,
+      "pageCount": 2
+    },
+    "jc30-l09-018": {
+      "key": "jc30-source-l09.pdf",
+      "firstPage": 33,
+      "pageCount": 1
+    },
+    "jc30-l09-019": {
+      "key": "jc30-source-l09.pdf",
+      "firstPage": 34,
+      "pageCount": 2
+    },
+    "jc30-l09-020": {
+      "key": "jc30-source-l09.pdf",
+      "firstPage": 36,
+      "pageCount": 1
+    },
+    "jc30-l09-021": {
+      "key": "jc30-source-l09.pdf",
+      "firstPage": 37,
+      "pageCount": 2
+    },
+    "jc30-l09-022": {
+      "key": "jc30-source-l09.pdf",
+      "firstPage": 39,
+      "pageCount": 3
+    },
+    "jc30-l09-023": {
+      "key": "jc30-source-l09.pdf",
+      "firstPage": 42,
+      "pageCount": 1
+    },
+    "jc30-l09-024": {
+      "key": "jc30-source-l09.pdf",
+      "firstPage": 43,
+      "pageCount": 1
+    },
+    "jc30-l09-025": {
+      "key": "jc30-source-l09.pdf",
+      "firstPage": 44,
+      "pageCount": 2
+    },
+    "jc30-l09-026": {
+      "key": "jc30-source-l09.pdf",
+      "firstPage": 46,
+      "pageCount": 1
+    },
+    "jc30-l09-027": {
+      "key": "jc30-source-l09.pdf",
+      "firstPage": 47,
+      "pageCount": 2
+    },
+    "jc30-l09-028": {
+      "key": "jc30-source-l09.pdf",
+      "firstPage": 49,
+      "pageCount": 2
+    },
+    "jc30-l09-029": {
+      "key": "jc30-source-l09.pdf",
+      "firstPage": 51,
+      "pageCount": 8
+    },
+    "jc30-l10-001": {
+      "key": "jc30-source-l10.pdf",
+      "firstPage": 1,
+      "pageCount": 2
+    },
+    "jc30-l10-002": {
+      "key": "jc30-source-l10.pdf",
+      "firstPage": 3,
+      "pageCount": 2
+    },
+    "jc30-l10-003": {
+      "key": "jc30-source-l10.pdf",
+      "firstPage": 5,
+      "pageCount": 1
+    },
+    "jc30-l10-004": {
+      "key": "jc30-source-l10.pdf",
+      "firstPage": 6,
+      "pageCount": 2
+    },
+    "jc30-l10-005": {
+      "key": "jc30-source-l10.pdf",
+      "firstPage": 8,
+      "pageCount": 2
+    },
+    "jc30-l10-006": {
+      "key": "jc30-source-l10.pdf",
+      "firstPage": 10,
+      "pageCount": 3
+    },
+    "jc30-l10-007": {
+      "key": "jc30-source-l10.pdf",
+      "firstPage": 13,
+      "pageCount": 2
+    },
+    "jc30-l10-008": {
+      "key": "jc30-source-l10.pdf",
+      "firstPage": 15,
+      "pageCount": 2
+    },
+    "jc30-l10-009": {
+      "key": "jc30-source-l10.pdf",
+      "firstPage": 17,
+      "pageCount": 2
+    },
+    "jc30-l10-010": {
+      "key": "jc30-source-l10.pdf",
+      "firstPage": 19,
+      "pageCount": 2
+    },
+    "jc30-l10-011": {
+      "key": "jc30-source-l10.pdf",
+      "firstPage": 21,
+      "pageCount": 1
+    },
+    "jc30-l10-012": {
+      "key": "jc30-source-l10.pdf",
+      "firstPage": 22,
+      "pageCount": 2
+    },
+    "jc30-l10-013": {
+      "key": "jc30-source-l10.pdf",
+      "firstPage": 24,
+      "pageCount": 1
+    },
+    "jc30-l10-014": {
+      "key": "jc30-source-l10.pdf",
+      "firstPage": 25,
+      "pageCount": 7
+    },
+    "jc30-l11-003": {
+      "key": "jc30-source-l11.pdf",
+      "firstPage": 1,
+      "pageCount": 2
+    },
+    "jc30-l11-010": {
+      "key": "jc30-source-l11.pdf",
+      "firstPage": 3,
+      "pageCount": 1
+    },
+    "jc30-l11-001": {
+      "key": "jc30-source-l11.pdf",
+      "firstPage": 4,
+      "pageCount": 2
+    },
+    "jc30-l11-002": {
+      "key": "jc30-source-l11.pdf",
+      "firstPage": 6,
+      "pageCount": 2
+    },
+    "jc30-l11-004": {
+      "key": "jc30-source-l11.pdf",
+      "firstPage": 8,
+      "pageCount": 2
+    },
+    "jc30-l11-005": {
+      "key": "jc30-source-l11.pdf",
+      "firstPage": 10,
+      "pageCount": 1
+    },
+    "jc30-l11-006": {
+      "key": "jc30-source-l11.pdf",
+      "firstPage": 11,
+      "pageCount": 2
+    },
+    "jc30-l11-007": {
+      "key": "jc30-source-l11.pdf",
+      "firstPage": 13,
+      "pageCount": 2
+    },
+    "jc30-l11-008": {
+      "key": "jc30-source-l11.pdf",
+      "firstPage": 15,
+      "pageCount": 2
+    },
+    "jc30-l11-009": {
+      "key": "jc30-source-l11.pdf",
+      "firstPage": 17,
+      "pageCount": 2
+    },
+    "jc30-l11-011": {
+      "key": "jc30-source-l11.pdf",
+      "firstPage": 19,
+      "pageCount": 5
+    },
+    "jc30-l12-001": {
+      "key": "jc30-source-l12.pdf",
+      "firstPage": 1,
+      "pageCount": 2
+    },
+    "jc30-l12-002": {
+      "key": "jc30-source-l12.pdf",
+      "firstPage": 3,
+      "pageCount": 6
+    },
+    "jc30-l12-003": {
+      "key": "jc30-source-l12.pdf",
+      "firstPage": 9,
+      "pageCount": 5
+    },
+    "jc30-l12-004": {
+      "key": "jc30-source-l12.pdf",
+      "firstPage": 14,
+      "pageCount": 3
+    },
+    "jc30-l13-001": {
+      "key": "jc30-source-l13.pdf",
+      "firstPage": 1,
+      "pageCount": 3
+    },
+    "jc30-l13-002": {
+      "key": "jc30-source-l13.pdf",
+      "firstPage": 4,
+      "pageCount": 2
+    },
+    "jc30-l13-003": {
+      "key": "jc30-source-l13.pdf",
+      "firstPage": 6,
+      "pageCount": 2
+    },
+    "jc30-l13-004": {
+      "key": "jc30-source-l13.pdf",
+      "firstPage": 8,
+      "pageCount": 2
+    },
+    "jc30-l13-005": {
+      "key": "jc30-source-l13.pdf",
+      "firstPage": 10,
+      "pageCount": 2
+    },
+    "jc30-l13-006": {
+      "key": "jc30-source-l13.pdf",
+      "firstPage": 12,
+      "pageCount": 4
+    },
+    "jc30-l13-007": {
+      "key": "jc30-source-l13.pdf",
+      "firstPage": 16,
+      "pageCount": 1
+    },
+    "jc30-l13-008": {
+      "key": "jc30-source-l13.pdf",
+      "firstPage": 17,
+      "pageCount": 3
+    },
+    "jc30-l13-009": {
+      "key": "jc30-source-l13.pdf",
+      "firstPage": 20,
+      "pageCount": 2
+    },
+    "jc30-l13-010": {
+      "key": "jc30-source-l13.pdf",
+      "firstPage": 22,
+      "pageCount": 1
+    },
+    "jc30-l13-011": {
+      "key": "jc30-source-l13.pdf",
+      "firstPage": 23,
+      "pageCount": 2
+    },
+    "jc30-l13-012": {
+      "key": "jc30-source-l13.pdf",
+      "firstPage": 25,
+      "pageCount": 2
+    },
+    "jc30-l13-013": {
+      "key": "jc30-source-l13.pdf",
+      "firstPage": 27,
+      "pageCount": 2
+    },
+    "jc30-l13-014": {
+      "key": "jc30-source-l13.pdf",
+      "firstPage": 29,
+      "pageCount": 1
+    },
+    "jc30-l13-015": {
+      "key": "jc30-source-l13.pdf",
+      "firstPage": 30,
+      "pageCount": 2
+    },
+    "jc30-l13-016": {
+      "key": "jc30-source-l13.pdf",
+      "firstPage": 32,
+      "pageCount": 3
+    },
+    "jc30-l13-017": {
+      "key": "jc30-source-l13.pdf",
+      "firstPage": 35,
+      "pageCount": 2
+    },
+    "jc30-l13-018": {
+      "key": "jc30-source-l13.pdf",
+      "firstPage": 37,
+      "pageCount": 3
+    },
+    "jc30-l13-019": {
+      "key": "jc30-source-l13.pdf",
+      "firstPage": 40,
+      "pageCount": 2
+    },
+    "jc30-l13-020": {
+      "key": "jc30-source-l13.pdf",
+      "firstPage": 42,
+      "pageCount": 2
+    },
+    "jc30-l13-021": {
+      "key": "jc30-source-l13.pdf",
+      "firstPage": 44,
+      "pageCount": 2
+    },
+    "jc30-l13-022": {
+      "key": "jc30-source-l13.pdf",
+      "firstPage": 46,
+      "pageCount": 8
+    },
+    "jc30-l14-001": {
+      "key": "jc30-source-l14.pdf",
+      "firstPage": 1,
+      "pageCount": 2
+    },
+    "jc30-l14-002": {
+      "key": "jc30-source-l14.pdf",
+      "firstPage": 3,
+      "pageCount": 4
+    },
+    "jc30-l14-003": {
+      "key": "jc30-source-l14.pdf",
+      "firstPage": 7,
+      "pageCount": 3
+    },
+    "jc30-l14-004": {
+      "key": "jc30-source-l14.pdf",
+      "firstPage": 10,
+      "pageCount": 2
+    },
+    "jc30-l14-005": {
+      "key": "jc30-source-l14.pdf",
+      "firstPage": 12,
+      "pageCount": 2
+    },
+    "jc30-l14-006": {
+      "key": "jc30-source-l14.pdf",
+      "firstPage": 14,
+      "pageCount": 2
+    },
+    "jc30-l14-007": {
+      "key": "jc30-source-l14.pdf",
+      "firstPage": 16,
+      "pageCount": 2
+    },
+    "jc30-l14-008": {
+      "key": "jc30-source-l14.pdf",
+      "firstPage": 18,
+      "pageCount": 1
+    },
+    "jc30-l14-009": {
+      "key": "jc30-source-l14.pdf",
+      "firstPage": 19,
+      "pageCount": 2
+    },
+    "jc30-l14-010": {
+      "key": "jc30-source-l14.pdf",
+      "firstPage": 21,
+      "pageCount": 2
+    },
+    "jc30-l14-011": {
+      "key": "jc30-source-l14.pdf",
+      "firstPage": 23,
+      "pageCount": 2
+    },
+    "jc30-l14-012": {
+      "key": "jc30-source-l14.pdf",
+      "firstPage": 25,
+      "pageCount": 1
+    },
+    "jc30-l14-013": {
+      "key": "jc30-source-l14.pdf",
+      "firstPage": 26,
+      "pageCount": 2
+    },
+    "jc30-l14-014": {
+      "key": "jc30-source-l14.pdf",
+      "firstPage": 28,
+      "pageCount": 3
+    },
+    "jc30-l14-015": {
+      "key": "jc30-source-l14.pdf",
+      "firstPage": 31,
+      "pageCount": 2
+    },
+    "jc30-l14-016": {
+      "key": "jc30-source-l14.pdf",
+      "firstPage": 33,
+      "pageCount": 2
+    },
+    "jc30-l14-017": {
+      "key": "jc30-source-l14.pdf",
+      "firstPage": 35,
+      "pageCount": 18
+    },
+    "jc30-l15-001": {
+      "key": "jc30-source-l15.pdf",
+      "firstPage": 1,
+      "pageCount": 2
+    },
+    "jc30-l15-002": {
+      "key": "jc30-source-l15.pdf",
+      "firstPage": 3,
+      "pageCount": 1
+    },
+    "jc30-l15-003": {
+      "key": "jc30-source-l15.pdf",
+      "firstPage": 4,
+      "pageCount": 2
+    },
+    "jc30-l15-004": {
+      "key": "jc30-source-l15.pdf",
+      "firstPage": 6,
+      "pageCount": 1
+    },
+    "jc30-l15-005": {
+      "key": "jc30-source-l15.pdf",
+      "firstPage": 7,
+      "pageCount": 2
+    },
+    "jc30-l15-006": {
+      "key": "jc30-source-l15.pdf",
+      "firstPage": 9,
+      "pageCount": 2
+    },
+    "jc30-l15-007": {
+      "key": "jc30-source-l15.pdf",
+      "firstPage": 11,
+      "pageCount": 2
+    },
+    "jc30-l15-008": {
+      "key": "jc30-source-l15.pdf",
+      "firstPage": 13,
+      "pageCount": 1
+    },
+    "jc30-l15-009": {
+      "key": "jc30-source-l15.pdf",
+      "firstPage": 14,
+      "pageCount": 2
+    },
+    "jc30-l15-010": {
+      "key": "jc30-source-l15.pdf",
+      "firstPage": 16,
+      "pageCount": 1
+    },
+    "jc30-l15-011": {
+      "key": "jc30-source-l15.pdf",
+      "firstPage": 17,
+      "pageCount": 2
+    },
+    "jc30-l15-012": {
+      "key": "jc30-source-l15.pdf",
+      "firstPage": 19,
+      "pageCount": 2
+    },
+    "jc30-l15-013": {
+      "key": "jc30-source-l15.pdf",
+      "firstPage": 21,
+      "pageCount": 2
+    },
+    "jc30-l15-014": {
+      "key": "jc30-source-l15.pdf",
+      "firstPage": 23,
+      "pageCount": 2
+    },
+    "jc30-l15-015": {
+      "key": "jc30-source-l15.pdf",
+      "firstPage": 25,
+      "pageCount": 1
+    },
+    "jc30-l15-016": {
+      "key": "jc30-source-l15.pdf",
+      "firstPage": 26,
+      "pageCount": 6
+    },
+    "jc30-l15-017": {
+      "key": "jc30-source-l15.pdf",
+      "firstPage": 32,
+      "pageCount": 2
+    },
+    "jc30-l15-018": {
+      "key": "jc30-source-l15.pdf",
+      "firstPage": 34,
+      "pageCount": 2
+    },
+    "jc30-l15-019": {
+      "key": "jc30-source-l15.pdf",
+      "firstPage": 36,
+      "pageCount": 2
+    },
+    "jc30-l15-020": {
+      "key": "jc30-source-l15.pdf",
+      "firstPage": 38,
+      "pageCount": 2
+    },
+    "jc30-l15-021": {
+      "key": "jc30-source-l15.pdf",
+      "firstPage": 40,
+      "pageCount": 2
+    },
+    "jc30-l15-022": {
+      "key": "jc30-source-l15.pdf",
+      "firstPage": 42,
+      "pageCount": 2
+    },
+    "jc30-l15-023": {
+      "key": "jc30-source-l15.pdf",
+      "firstPage": 44,
+      "pageCount": 3
+    },
+    "jc30-l15-024": {
+      "key": "jc30-source-l15.pdf",
+      "firstPage": 47,
+      "pageCount": 1
+    },
+    "jc30-l15-025": {
+      "key": "jc30-source-l15.pdf",
+      "firstPage": 48,
+      "pageCount": 7
+    },
+    "jc30-l16-001": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 1,
+      "pageCount": 1
+    },
+    "jc30-l16-002": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 2,
+      "pageCount": 2
+    },
+    "jc30-l16-003": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 4,
+      "pageCount": 2
+    },
+    "jc30-l16-004": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 6,
+      "pageCount": 2
+    },
+    "jc30-l16-005": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 8,
+      "pageCount": 1
+    },
+    "jc30-l16-006": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 9,
+      "pageCount": 2
+    },
+    "jc30-l16-007": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 11,
+      "pageCount": 1
+    },
+    "jc30-l16-008": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 12,
+      "pageCount": 2
+    },
+    "jc30-l16-009": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 14,
+      "pageCount": 1
+    },
+    "jc30-l16-010": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 15,
+      "pageCount": 2
+    },
+    "jc30-l16-011": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 17,
+      "pageCount": 2
+    },
+    "jc30-l16-012": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 19,
+      "pageCount": 2
+    },
+    "jc30-l16-013": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 21,
+      "pageCount": 2
+    },
+    "jc30-l16-014": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 23,
+      "pageCount": 1
+    },
+    "jc30-l16-015": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 24,
+      "pageCount": 2
+    },
+    "jc30-l16-016": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 26,
+      "pageCount": 4
+    },
+    "jc30-l16-017": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 30,
+      "pageCount": 1
+    },
+    "jc30-l16-018": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 31,
+      "pageCount": 2
+    },
+    "jc30-l16-019": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 33,
+      "pageCount": 2
+    },
+    "jc30-l16-020": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 35,
+      "pageCount": 3
+    },
+    "jc30-l16-021": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 38,
+      "pageCount": 7
+    },
+    "jc30-l16-022": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 45,
+      "pageCount": 2
+    },
+    "jc30-l16-023": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 47,
+      "pageCount": 1
+    },
+    "jc30-l16-024": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 48,
+      "pageCount": 2
+    },
+    "jc30-l16-025": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 50,
+      "pageCount": 1
+    },
+    "jc30-l16-026": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 51,
+      "pageCount": 2
+    },
+    "jc30-l16-027": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 53,
+      "pageCount": 5
+    },
+    "jc30-l16-028": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 58,
+      "pageCount": 1
+    },
+    "jc30-l16-029": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 59,
+      "pageCount": 2
+    },
+    "jc30-l16-030": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 61,
+      "pageCount": 1
+    },
+    "jc30-l16-031": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 62,
+      "pageCount": 3
+    },
+    "jc30-l16-032": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 65,
+      "pageCount": 1
+    },
+    "jc30-l16-033": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 66,
+      "pageCount": 2
+    },
+    "jc30-l16-034": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 68,
+      "pageCount": 3
+    },
+    "jc30-l16-035": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 71,
+      "pageCount": 1
+    },
+    "jc30-l16-036": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 72,
+      "pageCount": 2
+    },
+    "jc30-l16-037": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 74,
+      "pageCount": 5
+    },
+    "jc30-l16-038": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 79,
+      "pageCount": 1
+    },
+    "jc30-l16-039": {
+      "key": "jc30-source-l16.pdf",
+      "firstPage": 80,
+      "pageCount": 9
+    },
+    "jc30-l17-001": {
+      "key": "jc30-source-l17.pdf",
+      "firstPage": 1,
+      "pageCount": 5
+    },
+    "jc30-l17-002": {
+      "key": "jc30-source-l17.pdf",
+      "firstPage": 6,
+      "pageCount": 1
+    },
+    "jc30-l17-003": {
+      "key": "jc30-source-l17.pdf",
+      "firstPage": 7,
+      "pageCount": 1
+    },
+    "jc30-l17-004": {
+      "key": "jc30-source-l17.pdf",
+      "firstPage": 8,
+      "pageCount": 8
+    },
+    "jc30-l17-005": {
+      "key": "jc30-source-l17.pdf",
+      "firstPage": 16,
+      "pageCount": 3
+    },
+    "jc30-l17-006": {
+      "key": "jc30-source-l17.pdf",
+      "firstPage": 19,
+      "pageCount": 1
+    },
+    "jc30-l17-007": {
+      "key": "jc30-source-l17.pdf",
+      "firstPage": 20,
+      "pageCount": 2
+    },
+    "jc30-l17-008": {
+      "key": "jc30-source-l17.pdf",
+      "firstPage": 22,
+      "pageCount": 1
+    },
+    "jc30-l17-009": {
+      "key": "jc30-source-l17.pdf",
+      "firstPage": 23,
+      "pageCount": 3
+    },
+    "jc30-l17-010": {
+      "key": "jc30-source-l17.pdf",
+      "firstPage": 26,
+      "pageCount": 2
+    },
+    "jc30-l17-011": {
+      "key": "jc30-source-l17.pdf",
+      "firstPage": 28,
+      "pageCount": 1
+    },
+    "jc30-l17-012": {
+      "key": "jc30-source-l17.pdf",
+      "firstPage": 29,
+      "pageCount": 2
+    },
+    "jc30-l17-013": {
+      "key": "jc30-source-l17.pdf",
+      "firstPage": 31,
+      "pageCount": 5
+    },
+    "jc30-l18-001": {
+      "key": "jc30-source-l18.pdf",
+      "firstPage": 1,
+      "pageCount": 3
+    },
+    "jc30-l18-002": {
+      "key": "jc30-source-l18.pdf",
+      "firstPage": 4,
+      "pageCount": 3
+    },
+    "jc30-l18-003": {
+      "key": "jc30-source-l18.pdf",
+      "firstPage": 7,
+      "pageCount": 1
+    },
+    "jc30-l18-004": {
+      "key": "jc30-source-l18.pdf",
+      "firstPage": 8,
+      "pageCount": 3
+    },
+    "jc30-l18-005": {
+      "key": "jc30-source-l18.pdf",
+      "firstPage": 11,
+      "pageCount": 3
+    },
+    "jc30-l18-006": {
+      "key": "jc30-source-l18.pdf",
+      "firstPage": 14,
+      "pageCount": 1
+    },
+    "jc30-l18-007": {
+      "key": "jc30-source-l18.pdf",
+      "firstPage": 15,
+      "pageCount": 5
+    },
+    "jc30-l18-008": {
+      "key": "jc30-source-l18.pdf",
+      "firstPage": 20,
+      "pageCount": 1
+    },
+    "jc30-l18-009": {
+      "key": "jc30-source-l18.pdf",
+      "firstPage": 21,
+      "pageCount": 1
+    },
+    "jc30-l18-010": {
+      "key": "jc30-source-l18.pdf",
+      "firstPage": 22,
+      "pageCount": 3
+    },
+    "jc30-l18-011": {
+      "key": "jc30-source-l18.pdf",
+      "firstPage": 25,
+      "pageCount": 4
+    },
+    "jc30-l18-012": {
+      "key": "jc30-source-l18.pdf",
+      "firstPage": 29,
+      "pageCount": 2
+    },
+    "jc30-l18-013": {
+      "key": "jc30-source-l18.pdf",
+      "firstPage": 31,
+      "pageCount": 3
+    },
+    "jc30-l18-014": {
+      "key": "jc30-source-l18.pdf",
+      "firstPage": 34,
+      "pageCount": 4
+    },
+    "jc30-l18-015": {
+      "key": "jc30-source-l18.pdf",
+      "firstPage": 38,
+      "pageCount": 2
+    },
+    "jc30-l18-016": {
+      "key": "jc30-source-l18.pdf",
+      "firstPage": 40,
+      "pageCount": 2
+    },
+    "jc30-l18-017": {
+      "key": "jc30-source-l18.pdf",
+      "firstPage": 42,
+      "pageCount": 2
+    },
+    "jc30-l18-018": {
+      "key": "jc30-source-l18.pdf",
+      "firstPage": 44,
+      "pageCount": 2
+    },
+    "jc30-l18-019": {
+      "key": "jc30-source-l18.pdf",
+      "firstPage": 46,
+      "pageCount": 3
+    },
+    "jc30-l18-020": {
+      "key": "jc30-source-l18.pdf",
+      "firstPage": 49,
+      "pageCount": 2
+    },
+    "jc30-l18-021": {
+      "key": "jc30-source-l18.pdf",
+      "firstPage": 51,
+      "pageCount": 5
+    },
+    "jc30-l18-022": {
+      "key": "jc30-source-l18.pdf",
+      "firstPage": 56,
+      "pageCount": 2
+    },
+    "jc30-l18-023": {
+      "key": "jc30-source-l18.pdf",
+      "firstPage": 58,
+      "pageCount": 1
+    },
+    "jc30-l18-024": {
+      "key": "jc30-source-l18.pdf",
+      "firstPage": 59,
+      "pageCount": 2
+    },
+    "jc30-l18-025": {
+      "key": "jc30-source-l18.pdf",
+      "firstPage": 61,
+      "pageCount": 2
+    },
+    "jc30-l18-026": {
+      "key": "jc30-source-l18.pdf",
+      "firstPage": 63,
+      "pageCount": 2
+    },
+    "jc30-l18-027": {
+      "key": "jc30-source-l18.pdf",
+      "firstPage": 65,
+      "pageCount": 2
+    },
+    "jc30-l18-028": {
+      "key": "jc30-source-l18.pdf",
+      "firstPage": 67,
+      "pageCount": 1
+    },
+    "jc30-l18-029": {
+      "key": "jc30-source-l18.pdf",
+      "firstPage": 68,
+      "pageCount": 3
+    },
+    "jc30-l18-030": {
+      "key": "jc30-source-l18.pdf",
+      "firstPage": 71,
+      "pageCount": 7
+    }
+  }
+}

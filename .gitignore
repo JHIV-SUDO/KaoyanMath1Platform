@@ -1,0 +1,17 @@
+node_modules/
+data/db.json
+data/db.json.tmp
+service/data/
+cloud/generated/
+cloud/deploy-files.json
+android/.keys/
+android/dist/
+windows/dist/
+windows/browser-data/
+docs/polish/
+*.apk
+*.idsig
+*.jks
+*.keystore
+*.log
+__pycache__/

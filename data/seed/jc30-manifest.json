@@ -1,0 +1,2604 @@
+{
+ "generatedAt": "2026-10-29T09:19:52",
+ "source": "B:/27张宇基础30讲（高数）.pdf",
+ "sourceInfo": "考研数学基础30讲·高等数学分册（张宇主编，2027版，北京理工大学出版社2025.9），586页扫描件；页码为PDF物理页（书页=PDF页−6）",
+ "totalPdfPages": 586,
+ "anchorMethod": "tools/extract-anchors.py 左边栏 RapidOCR 定位「例N.M」锚点，关键页 300DPI 渲染人工核对",
+ "lectures": [
+  {
+   "lecture": 1,
+   "title": "函数极限与连续",
+   "pdfStartPage": 7,
+   "pdfEndPage": 81,
+   "examples": [
+    {
+     "no": "例1.1",
+     "problemPage": 9,
+     "solutionPage": 9,
+     "status": "done",
+     "note": "题干与解答（应填 x/(x²−2)）同在 PDF 第9页，已人工核对"
+    },
+    {
+     "no": "例1.2",
+     "problemPage": 10,
+     "solutionPage": 10,
+     "status": "done",
+     "note": "题干与解答同在 PDF 第10页，已人工核对"
+    },
+    {
+     "no": "例1.3",
+     "problemPage": 11,
+     "solutionPage": 12,
+     "status": "done",
+     "note": "题干在 PDF 第11页页底，解答主体在 PDF 第12页，已人工核对"
+    },
+    {
+     "no": "例1.4",
+     "problemPage": 13,
+     "solutionPage": 13,
+     "status": "done",
+     "note": "题干与解答同在 PDF 第13页，已人工核对"
+    },
+    {
+     "no": "例1.5",
+     "problemPage": 14,
+     "solutionPage": 14,
+     "status": "done",
+     "note": "题干与解答同在 PDF 第14页，已人工核对"
+    },
+    {
+     "no": "例1.6",
+     "problemPage": 15,
+     "solutionPage": 16,
+     "status": "done",
+     "note": "题干与证明开头在 PDF 第15页，证明主体在 PDF 第16页，已人工核对"
+    },
+    {
+     "no": "例1.7",
+     "problemPage": 16,
+     "solutionPage": 17,
+     "status": "done",
+     "note": "题干在 PDF 第16页页底，解答与图形在 PDF 第17页，已人工核对"
+    },
+    {
+     "no": "例1.8",
+     "problemPage": 19,
+     "solutionPage": 19,
+     "status": "done",
+     "note": "题干与证明同在 PDF 第19页，已人工核对"
+    },
+    {
+     "no": "例1.9",
+     "problemPage": 20,
+     "solutionPage": 20,
+     "status": "done",
+     "note": "题干与证明同在 PDF 第20页，已人工核对"
+    },
+    {
+     "no": "例1.10",
+     "problemPage": 21,
+     "solutionPage": 22,
+     "status": "done",
+     "note": "题干与取对数在 PDF 第21页页底，求导与结论在 PDF 第22页，已人工核对"
+    },
+    {
+     "no": "例1.11",
+     "problemPage": 24,
+     "solutionPage": 24,
+     "status": "done",
+     "note": "题干与解答同在 PDF 第24页，已人工核对"
+    },
+    {
+     "no": "例1.12",
+     "problemPage": 28,
+     "solutionPage": 28,
+     "status": "done",
+     "note": "题干与三支反函数解答同在 PDF 第28页，已人工核对"
+    },
+    {
+     "no": "例1.13",
+     "problemPage": 32,
+     "solutionPage": 32,
+     "status": "done",
+     "note": "题干与解答同在 PDF 第32页，已人工核对"
+    },
+    {
+     "no": "例1.14",
+     "problemPage": 35,
+     "solutionPage": 36,
+     "status": "done",
+     "note": "题干在 PDF 第35页页底，解答在 PDF 第36页，已人工核对"
+    },
+    {
+     "no": "例1.15",
+     "problemPage": 43,
+     "solutionPage": 44,
+     "status": "done",
+     "note": "题干与分析在 PDF 第43页，单侧极限计算在 PDF 第44页（已放大核对无笔误），已人工核对"
+    },
+    {
+     "no": "例1.16",
+     "problemPage": 44,
+     "solutionPage": 44,
+     "status": "done",
+     "note": "题干与解答同在 PDF 第44页，已人工核对"
+    },
+    {
+     "no": "例1.17",
+     "problemPage": 45,
+     "solutionPage": 45,
+     "status": "done",
+     "note": "题干与解答同在 PDF 第45页，已人工核对"
+    },
+    {
+     "no": "例1.18",
+     "problemPage": 46,
+     "solutionPage": 47,
+     "status": "done",
+     "note": "题干与选项在 PDF 第46页，解答收尾在 PDF 第47页，已人工核对"
+    },
+    {
+     "no": "例1.19",
+     "problemPage": 51,
+     "solutionPage": 51,
+     "status": "pending",
+     "note": "OCR 锚点 '例1.19' (置信度 0.999, y=386pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例1.20",
+     "problemPage": 52,
+     "solutionPage": 52,
+     "status": "pending",
+     "note": "OCR 锚点 '例1.20' (置信度 0.998, y=424pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例1.21",
+     "problemPage": 52,
+     "solutionPage": 53,
+     "status": "pending",
+     "note": "OCR 锚点 '例1.21' (置信度 0.998, y=671pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例1.22",
+     "problemPage": 55,
+     "solutionPage": 55,
+     "status": "pending",
+     "note": "OCR 锚点 '例1.22' (置信度 0.997, y=73pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例1.23",
+     "problemPage": 55,
+     "solutionPage": 56,
+     "status": "pending",
+     "note": "OCR 锚点 '例1.23' (置信度 0.999, y=601pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例1.24",
+     "problemPage": 61,
+     "solutionPage": 61,
+     "status": "pending",
+     "note": "OCR 锚点 '例1.24' (置信度 0.998, y=235pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例1.25",
+     "problemPage": 62,
+     "solutionPage": 62,
+     "status": "pending",
+     "note": "OCR 锚点 '例1.25' (置信度 0.999, y=233pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例1.26",
+     "problemPage": 63,
+     "solutionPage": 63,
+     "status": "pending",
+     "note": "OCR 锚点 '例1.26' (置信度 0.998, y=170pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例1.27",
+     "problemPage": 63,
+     "solutionPage": 64,
+     "status": "pending",
+     "note": "OCR 锚点 '例1.27' (置信度 0.999, y=617pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例1.28",
+     "problemPage": 64,
+     "solutionPage": 64,
+     "status": "pending",
+     "note": "OCR 锚点 '例1.28' (置信度 0.998, y=555pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例1.29",
+     "problemPage": 65,
+     "solutionPage": 65,
+     "status": "pending",
+     "note": "OCR 锚点 '例1.29' (置信度 0.977, y=409pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例1.30",
+     "problemPage": 66,
+     "solutionPage": 66,
+     "status": "pending",
+     "note": "OCR 锚点 '例1.30' (置信度 0.997, y=310pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例1.31",
+     "problemPage": 67,
+     "solutionPage": 67,
+     "status": "pending",
+     "note": "OCR 锚点 '例1.31' (置信度 0.994, y=221pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例1.32",
+     "problemPage": 67,
+     "solutionPage": 67,
+     "status": "pending",
+     "note": "OCR 锚点 '例1.32' (置信度 0.998, y=557pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例1.33",
+     "problemPage": 68,
+     "solutionPage": 68,
+     "status": "pending",
+     "note": "OCR 锚点 '例1.33' (置信度 0.999, y=195pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例1.34",
+     "problemPage": 68,
+     "solutionPage": 69,
+     "status": "pending",
+     "note": "OCR 锚点 '例1.34' (置信度 0.997, y=571pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例1.35",
+     "problemPage": 69,
+     "solutionPage": 69,
+     "status": "pending",
+     "note": "OCR 锚点 '例1.35' (置信度 0.998, y=396pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例1.36",
+     "problemPage": 73,
+     "solutionPage": 73,
+     "status": "pending",
+     "note": "OCR 锚点 '例1.36' (置信度 0.999, y=80pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例1.37",
+     "problemPage": 73,
+     "solutionPage": 73,
+     "status": "pending",
+     "note": "OCR 锚点 '例1.37' (置信度 0.998, y=288pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例1.38",
+     "problemPage": 74,
+     "solutionPage": 74,
+     "status": "pending",
+     "note": "OCR 锚点 '例1.38' (置信度 0.992, y=116pt)；解答自题干页起（估，±1页）"
+    }
+   ]
+  },
+  {
+   "lecture": 2,
+   "title": "数列极限",
+   "pdfStartPage": 82,
+   "pdfEndPage": 104,
+   "examples": [
+    {
+     "no": "例2.1",
+     "problemPage": 85,
+     "solutionPage": 85,
+     "status": "pending",
+     "note": "OCR 锚点 '例2.1' (置信度 0.998, y=236pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例2.2",
+     "problemPage": 86,
+     "solutionPage": 86,
+     "status": "pending",
+     "note": "OCR 锚点 '例2.2' (置信度 0.998, y=503pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例2.3",
+     "problemPage": 87,
+     "solutionPage": 87,
+     "status": "pending",
+     "note": "OCR 锚点 '例2.3' (置信度 0.917, y=301pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例2.4",
+     "problemPage": 87,
+     "solutionPage": 87,
+     "status": "pending",
+     "note": "OCR 锚点 '例2.4' (置信度 0.998, y=519pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例2.5",
+     "problemPage": 88,
+     "solutionPage": 88,
+     "status": "pending",
+     "note": "OCR 锚点 '例2.5' (置信度 0.998, y=327pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例2.6",
+     "problemPage": 89,
+     "solutionPage": 89,
+     "status": "pending",
+     "note": "OCR 锚点 '例2.6' (置信度 0.999, y=87pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例2.7",
+     "problemPage": 90,
+     "solutionPage": 90,
+     "status": "pending",
+     "note": "OCR 锚点 '例2.7' (置信度 0.999, y=237pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例2.8",
+     "problemPage": 91,
+     "solutionPage": 91,
+     "status": "pending",
+     "note": "OCR 锚点 '例2.8' (置信度 0.997, y=119pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例2.9",
+     "problemPage": 93,
+     "solutionPage": 94,
+     "status": "pending",
+     "note": "OCR 锚点 '例2.9' (置信度 0.999, y=581pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例2.10",
+     "problemPage": 94,
+     "solutionPage": 94,
+     "status": "pending",
+     "note": "OCR 锚点 '例2.10' (置信度 0.998, y=175pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例2.11",
+     "problemPage": 94,
+     "solutionPage": 95,
+     "status": "pending",
+     "note": "OCR 锚点 '例2.11' (置信度 0.998, y=615pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例2.12",
+     "problemPage": 96,
+     "solutionPage": 96,
+     "status": "pending",
+     "note": "OCR 锚点 '例2.12' (置信度 0.997, y=380pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例2.13",
+     "problemPage": 97,
+     "solutionPage": 97,
+     "status": "pending",
+     "note": "OCR 锚点 '例2.13' (置信度 0.999, y=104pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例2.14",
+     "problemPage": 97,
+     "solutionPage": 97,
+     "status": "pending",
+     "note": "OCR 锚点 '例2.14' (置信度 0.999, y=538pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例2.15",
+     "problemPage": 99,
+     "solutionPage": 99,
+     "status": "pending",
+     "note": "OCR 锚点 '例2.15' (置信度 0.997, y=228pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例2.16",
+     "problemPage": 100,
+     "solutionPage": 101,
+     "status": "pending",
+     "note": "OCR 锚点 '例2.16' (置信度 0.998, y=588pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例2.17",
+     "problemPage": 101,
+     "solutionPage": 101,
+     "status": "pending",
+     "note": "OCR 锚点 '例2.17' (置信度 0.998, y=122pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例2.18",
+     "problemPage": 101,
+     "solutionPage": 101,
+     "status": "pending",
+     "note": "OCR 锚点 '例2.18' (置信度 0.998, y=519pt)；解答自题干页起（估，±1页）"
+    }
+   ]
+  },
+  {
+   "lecture": 3,
+   "title": "一元函数微分学的概念",
+   "pdfStartPage": 105,
+   "pdfEndPage": 124,
+   "examples": [
+    {
+     "no": "例3.1",
+     "problemPage": 108,
+     "solutionPage": 108,
+     "status": "pending",
+     "note": "OCR 锚点 '例3.1' (置信度 0.997, y=266pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例3.2",
+     "problemPage": 109,
+     "solutionPage": 109,
+     "status": "pending",
+     "note": "OCR 锚点 '例3.2' (置信度 0.998, y=541pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例3.3",
+     "problemPage": 110,
+     "solutionPage": 110,
+     "status": "pending",
+     "note": "OCR 锚点 '例3.3' (置信度 0.954, y=145pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例3.4",
+     "problemPage": 110,
+     "solutionPage": 110,
+     "status": "pending",
+     "note": "OCR 锚点 '例3.4' (置信度 0.996, y=531pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例3.5",
+     "problemPage": 111,
+     "solutionPage": 111,
+     "status": "pending",
+     "note": "OCR 锚点 '例3.5' (置信度 0.997, y=297pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例3.6",
+     "problemPage": 111,
+     "solutionPage": 111,
+     "status": "pending",
+     "note": "OCR 锚点 '例3.6' (置信度 0.996, y=555pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例3.7",
+     "problemPage": 115,
+     "solutionPage": 115,
+     "status": "pending",
+     "note": "OCR 锚点 '例3.7' (置信度 0.997, y=66pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例3.8",
+     "problemPage": 116,
+     "solutionPage": 116,
+     "status": "pending",
+     "note": "OCR 锚点 '例3.8' (置信度 0.996, y=433pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例3.9",
+     "problemPage": 117,
+     "solutionPage": 117,
+     "status": "pending",
+     "note": "OCR 锚点 '例3.9' (置信度 0.999, y=471pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例3.10",
+     "problemPage": 119,
+     "solutionPage": 120,
+     "status": "pending",
+     "note": "OCR 锚点 '例3.10' (置信度 0.998, y=660pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例3.11",
+     "problemPage": 120,
+     "solutionPage": 120,
+     "status": "pending",
+     "note": "OCR 锚点 '例3.11' (置信度 0.998, y=200pt)；解答自题干页起（估，±1页）"
+    }
+   ]
+  },
+  {
+   "lecture": 4,
+   "title": "一元函数微分学的计算",
+   "pdfStartPage": 125,
+   "pdfEndPage": 144,
+   "examples": [
+    {
+     "no": "例4.1",
+     "problemPage": 127,
+     "solutionPage": 127,
+     "status": "pending",
+     "note": "OCR 锚点 '例4.1' (置信度 0.996, y=321pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例4.2",
+     "problemPage": 128,
+     "solutionPage": 128,
+     "status": "pending",
+     "note": "OCR 锚点 '例4.2' (置信度 0.997, y=361pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例4.3",
+     "problemPage": 128,
+     "solutionPage": 129,
+     "status": "pending",
+     "note": "OCR 锚点 '例4.3' (置信度 0.996, y=661pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例4.4",
+     "problemPage": 129,
+     "solutionPage": 129,
+     "status": "pending",
+     "note": "OCR 锚点 '例4.4' (置信度 0.999, y=336pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例4.5",
+     "problemPage": 130,
+     "solutionPage": 130,
+     "status": "pending",
+     "note": "OCR 锚点 '例4.5' (置信度 0.998, y=216pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例4.6",
+     "problemPage": 130,
+     "solutionPage": 131,
+     "status": "pending",
+     "note": "OCR 锚点 '例4.6' (置信度 0.993, y=585pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例4.7",
+     "problemPage": 132,
+     "solutionPage": 132,
+     "status": "pending",
+     "note": "OCR 锚点 '例4.7' (置信度 0.997, y=67pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例4.8",
+     "problemPage": 132,
+     "solutionPage": 132,
+     "status": "pending",
+     "note": "OCR 锚点 '例4.8' (置信度 0.997, y=421pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例4.9",
+     "problemPage": 133,
+     "solutionPage": 133,
+     "status": "pending",
+     "note": "OCR 锚点 '例4.9' (置信度 0.999, y=288pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例4.10",
+     "problemPage": 133,
+     "solutionPage": 133,
+     "status": "pending",
+     "note": "OCR 锚点 '例4.10' (置信度 0.999, y=533pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例4.11",
+     "problemPage": 134,
+     "solutionPage": 134,
+     "status": "pending",
+     "note": "OCR 锚点 '例4.11' (置信度 0.999, y=321pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例4.12",
+     "problemPage": 135,
+     "solutionPage": 135,
+     "status": "pending",
+     "note": "OCR 锚点 '例4.12' (置信度 0.998, y=103pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例4.13",
+     "problemPage": 135,
+     "solutionPage": 135,
+     "status": "pending",
+     "note": "OCR 锚点 '例4.13' (置信度 0.999, y=258pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例4.14",
+     "problemPage": 135,
+     "solutionPage": 135,
+     "status": "pending",
+     "note": "OCR 锚点 '例4.14' (置信度 0.999, y=558pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例4.15",
+     "problemPage": 136,
+     "solutionPage": 137,
+     "status": "pending",
+     "note": "OCR 锚点 '例4.15' (置信度 0.998, y=620pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例4.16",
+     "problemPage": 137,
+     "solutionPage": 137,
+     "status": "pending",
+     "note": "OCR 锚点 '例4.16' (置信度 0.999, y=339pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例4.17",
+     "problemPage": 138,
+     "solutionPage": 138,
+     "status": "pending",
+     "note": "OCR 锚点 '例4.17' (置信度 0.997, y=420pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例4.18",
+     "problemPage": 139,
+     "solutionPage": 139,
+     "status": "pending",
+     "note": "OCR 锚点 '例4.18' (置信度 0.998, y=504pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例4.19",
+     "problemPage": 140,
+     "solutionPage": 140,
+     "status": "pending",
+     "note": "OCR 锚点 '例4.19' (置信度 0.998, y=361pt)；解答自题干页起（估，±1页）"
+    }
+   ]
+  },
+  {
+   "lecture": 5,
+   "title": "一元函数微分学的应用（一）——几何应用",
+   "pdfStartPage": 145,
+   "pdfEndPage": 169,
+   "examples": [
+    {
+     "no": "例5.1",
+     "problemPage": 149,
+     "solutionPage": 150,
+     "status": "pending",
+     "note": "OCR 锚点 '例5.1' (置信度 0.997, y=591pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例5.2",
+     "problemPage": 150,
+     "solutionPage": 150,
+     "status": "pending",
+     "note": "OCR 锚点 '例5.2' (置信度 0.998, y=186pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例5.3",
+     "problemPage": 150,
+     "solutionPage": 150,
+     "status": "pending",
+     "note": "OCR 锚点 '例5.3' (置信度 0.998, y=465pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例5.4",
+     "problemPage": 150,
+     "solutionPage": 151,
+     "status": "pending",
+     "note": "OCR 锚点 '例5.4' (置信度 1.0, y=659pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例5.5",
+     "problemPage": 154,
+     "solutionPage": 154,
+     "status": "pending",
+     "note": "OCR 锚点 '例5.5' (置信度 0.999, y=499pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例5.6",
+     "problemPage": 155,
+     "solutionPage": 155,
+     "status": "pending",
+     "note": "OCR 锚点 '例5.6' (置信度 0.999, y=526pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例5.7",
+     "problemPage": 156,
+     "solutionPage": 156,
+     "status": "pending",
+     "note": "OCR 锚点 '例5.7' (置信度 0.999, y=241pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例5.8",
+     "problemPage": 156,
+     "solutionPage": 156,
+     "status": "pending",
+     "note": "OCR 锚点 '例5.8' (置信度 0.998, y=517pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例5.9",
+     "problemPage": 159,
+     "solutionPage": 159,
+     "status": "pending",
+     "note": "OCR 锚点 '例5.9' (置信度 0.999, y=468pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例5.10",
+     "problemPage": 161,
+     "solutionPage": 162,
+     "status": "pending",
+     "note": "OCR 锚点 '例5.10' (置信度 0.999, y=687pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例5.11",
+     "problemPage": 162,
+     "solutionPage": 163,
+     "status": "pending",
+     "note": "OCR 锚点 '例5.11' (置信度 0.999, y=632pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例5.12",
+     "problemPage": 163,
+     "solutionPage": 163,
+     "status": "pending",
+     "note": "OCR 锚点 '例5.12' (置信度 0.998, y=359pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例5.13",
+     "problemPage": 164,
+     "solutionPage": 164,
+     "status": "pending",
+     "note": "OCR 锚点 '例5.13' (置信度 0.997, y=259pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例5.14",
+     "problemPage": 164,
+     "solutionPage": 165,
+     "status": "pending",
+     "note": "OCR 锚点 '例5.14' (置信度 0.998, y=621pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例5.15",
+     "problemPage": 165,
+     "solutionPage": 166,
+     "status": "pending",
+     "note": "OCR 锚点 '例5.15' (置信度 0.997, y=608pt)；题干近页底，解答主体约在次页（估，±1页）"
+    }
+   ]
+  },
+  {
+   "lecture": 6,
+   "title": "一元函数微分学的应用（二）——中值定理、微分等式与微分不等式",
+   "pdfStartPage": 170,
+   "pdfEndPage": 191,
+   "examples": [
+    {
+     "no": "例6.1",
+     "problemPage": 172,
+     "solutionPage": 172,
+     "status": "pending",
+     "note": "OCR 锚点 '例6.1' (置信度 0.997, y=383pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例6.2",
+     "problemPage": 172,
+     "solutionPage": 172,
+     "status": "pending",
+     "note": "OCR 锚点 '例6.2' (置信度 0.999, y=564pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例6.3",
+     "problemPage": 173,
+     "solutionPage": 173,
+     "status": "pending",
+     "note": "OCR 锚点 '例6.3' (置信度 0.998, y=513pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例6.4",
+     "problemPage": 175,
+     "solutionPage": 175,
+     "status": "pending",
+     "note": "OCR 锚点 '例6.4' (置信度 0.998, y=283pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例6.5",
+     "problemPage": 175,
+     "solutionPage": 175,
+     "status": "pending",
+     "note": "OCR 锚点 '例6.5' (置信度 0.999, y=477pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例6.6",
+     "problemPage": 176,
+     "solutionPage": 176,
+     "status": "pending",
+     "note": "OCR 锚点 '例6.6' (置信度 0.999, y=187pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例6.7",
+     "problemPage": 176,
+     "solutionPage": 176,
+     "status": "pending",
+     "note": "OCR 锚点 '例6.7' (置信度 0.998, y=468pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例6.8",
+     "problemPage": 177,
+     "solutionPage": 177,
+     "status": "pending",
+     "note": "OCR 锚点 '例6.8' (置信度 0.999, y=288pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例6.9",
+     "problemPage": 177,
+     "solutionPage": 177,
+     "status": "pending",
+     "note": "OCR 锚点 '例6.9' (置信度 0.999, y=477pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例6.10",
+     "problemPage": 177,
+     "solutionPage": 178,
+     "status": "pending",
+     "note": "OCR 锚点 '例6.10' (置信度 0.999, y=666pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例6.11",
+     "problemPage": 178,
+     "solutionPage": 178,
+     "status": "pending",
+     "note": "OCR 锚点 '例6.11' (置信度 0.999, y=482pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例6.12",
+     "problemPage": 180,
+     "solutionPage": 180,
+     "status": "pending",
+     "note": "OCR 锚点 '例6.12' (置信度 0.998, y=82pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例6.13",
+     "problemPage": 180,
+     "solutionPage": 181,
+     "status": "pending",
+     "note": "OCR 锚点 '例6.13' (置信度 0.999, y=691pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例6.14",
+     "problemPage": 182,
+     "solutionPage": 183,
+     "status": "pending",
+     "note": "OCR 锚点 '例6.14' (置信度 0.998, y=688pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例6.15",
+     "problemPage": 183,
+     "solutionPage": 183,
+     "status": "pending",
+     "note": "OCR 锚点 '例6.15' (置信度 0.998, y=295pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例6.16",
+     "problemPage": 183,
+     "solutionPage": 183,
+     "status": "pending",
+     "note": "OCR 锚点 '例6.16' (置信度 0.999, y=458pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例6.17",
+     "problemPage": 183,
+     "solutionPage": 184,
+     "status": "pending",
+     "note": "OCR 锚点 '例6.17' (置信度 0.998, y=604pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例6.18",
+     "problemPage": 184,
+     "solutionPage": 184,
+     "status": "pending",
+     "note": "OCR 锚点 '例6.18' (置信度 0.999, y=419pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例6.19",
+     "problemPage": 185,
+     "solutionPage": 185,
+     "status": "pending",
+     "note": "OCR 锚点 '例6.19' (置信度 0.999, y=410pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例6.20",
+     "problemPage": 186,
+     "solutionPage": 186,
+     "status": "pending",
+     "note": "OCR 锚点 '例6.20' (置信度 0.998, y=152pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例6.21",
+     "problemPage": 187,
+     "solutionPage": 187,
+     "status": "pending",
+     "note": "OCR 锚点 '例6.21' (置信度 0.999, y=181pt)；解答自题干页起（估，±1页）"
+    }
+   ]
+  },
+  {
+   "lecture": 7,
+   "title": "一元函数微分学的应用（三）——物理应用与经济应用",
+   "pdfStartPage": 192,
+   "pdfEndPage": 200,
+   "examples": [
+    {
+     "no": "例7.1",
+     "problemPage": 194,
+     "solutionPage": 194,
+     "status": "pending",
+     "note": "OCR 锚点 '例7.1' (置信度 0.996, y=71pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例7.2",
+     "problemPage": 194,
+     "solutionPage": 195,
+     "status": "pending",
+     "note": "OCR 锚点 '例7.2' (置信度 0.997, y=666pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例7.3",
+     "problemPage": 197,
+     "solutionPage": 197,
+     "status": "pending",
+     "note": "OCR 锚点 '例7.3' (置信度 0.997, y=502pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例7.4",
+     "problemPage": 198,
+     "solutionPage": 198,
+     "status": "pending",
+     "note": "OCR 锚点 '例7.4' (置信度 0.993, y=231pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例7.5",
+     "problemPage": 198,
+     "solutionPage": 199,
+     "status": "pending",
+     "note": "OCR 锚点 '例7.5' (置信度 0.997, y=568pt)；题干近页底，解答主体约在次页（估，±1页）"
+    }
+   ]
+  },
+  {
+   "lecture": 8,
+   "title": "一元函数积分学的概念与性质",
+   "pdfStartPage": 201,
+   "pdfEndPage": 235,
+   "examples": [
+    {
+     "no": "例8.1",
+     "problemPage": 202,
+     "solutionPage": 202,
+     "status": "pending",
+     "note": "OCR 锚点 '例8.1' (置信度 0.997, y=377pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例8.2",
+     "problemPage": 202,
+     "solutionPage": 203,
+     "status": "pending",
+     "note": "OCR 锚点 '例8.2' (置信度 0.995, y=671pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例8.3",
+     "problemPage": 214,
+     "solutionPage": 214,
+     "status": "pending",
+     "note": "OCR 锚点 '例8.3' (置信度 0.994, y=453pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例8.4",
+     "problemPage": 216,
+     "solutionPage": 216,
+     "status": "pending",
+     "note": "OCR 锚点 '例8.4' (置信度 0.997, y=71pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例8.5",
+     "problemPage": 216,
+     "solutionPage": 216,
+     "status": "pending",
+     "note": "OCR 锚点 '例8.5' (置信度 0.998, y=398pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例8.6",
+     "problemPage": 217,
+     "solutionPage": 217,
+     "status": "pending",
+     "note": "OCR 锚点 '例8.6' (置信度 0.997, y=73pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例8.7",
+     "problemPage": 217,
+     "solutionPage": 218,
+     "status": "pending",
+     "note": "OCR 锚点 '例8.7' (置信度 0.999, y=625pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例8.8",
+     "problemPage": 218,
+     "solutionPage": 218,
+     "status": "pending",
+     "note": "OCR 锚点 '例8.8' (置信度 0.998, y=315pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例8.9",
+     "problemPage": 219,
+     "solutionPage": 219,
+     "status": "pending",
+     "note": "OCR 锚点 '例8.9' (置信度 0.999, y=212pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例8.10",
+     "problemPage": 219,
+     "solutionPage": 220,
+     "status": "pending",
+     "note": "OCR 锚点 '例8.10' (置信度 0.998, y=652pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例8.11",
+     "problemPage": 222,
+     "solutionPage": 222,
+     "status": "pending",
+     "note": "OCR 锚点 '例8.11' (置信度 0.998, y=244pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例8.12",
+     "problemPage": 223,
+     "solutionPage": 223,
+     "status": "pending",
+     "note": "OCR 锚点 '例8.12' (置信度 0.998, y=133pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例8.13",
+     "problemPage": 223,
+     "solutionPage": 223,
+     "status": "pending",
+     "note": "OCR 锚点 '例8.13' (置信度 0.998, y=432pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例8.14",
+     "problemPage": 224,
+     "solutionPage": 224,
+     "status": "pending",
+     "note": "OCR 锚点 '例8.14' (置信度 0.997, y=114pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例8.15",
+     "problemPage": 227,
+     "solutionPage": 228,
+     "status": "pending",
+     "note": "OCR 锚点 '例8.15' (置信度 0.996, y=579pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例8.16",
+     "problemPage": 228,
+     "solutionPage": 228,
+     "status": "pending",
+     "note": "OCR 锚点 '例8.16' (置信度 0.999, y=187pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例8.17",
+     "problemPage": 228,
+     "solutionPage": 228,
+     "status": "pending",
+     "note": "OCR 锚点 '例8.17' (置信度 0.998, y=345pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例8.18",
+     "problemPage": 229,
+     "solutionPage": 229,
+     "status": "pending",
+     "note": "OCR 锚点 '例8.18' (置信度 0.997, y=534pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例8.19",
+     "problemPage": 230,
+     "solutionPage": 230,
+     "status": "pending",
+     "note": "OCR 锚点 '例8.19' (置信度 0.997, y=351pt)；解答自题干页起（估，±1页）"
+    }
+   ]
+  },
+  {
+   "lecture": 9,
+   "title": "一元函数积分学的计算",
+   "pdfStartPage": 236,
+   "pdfEndPage": 268,
+   "examples": [
+    {
+     "no": "例9.1",
+     "problemPage": 239,
+     "solutionPage": 239,
+     "status": "pending",
+     "note": "OCR 锚点 '例9.1' (置信度 0.998, y=554pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例9.2",
+     "problemPage": 240,
+     "solutionPage": 240,
+     "status": "pending",
+     "note": "OCR 锚点 '例9.2' (置信度 0.998, y=150pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例9.3",
+     "problemPage": 241,
+     "solutionPage": 242,
+     "status": "pending",
+     "note": "OCR 锚点 '例9.3' (置信度 0.998, y=681pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例9.4",
+     "problemPage": 244,
+     "solutionPage": 244,
+     "status": "pending",
+     "note": "OCR 锚点 '例9.4' (置信度 0.998, y=77pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例9.5",
+     "problemPage": 244,
+     "solutionPage": 244,
+     "status": "pending",
+     "note": "OCR 锚点 '例9.5' (置信度 0.999, y=307pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例9.6",
+     "problemPage": 245,
+     "solutionPage": 245,
+     "status": "pending",
+     "note": "OCR 锚点 '例9.6' (置信度 0.996, y=71pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例9.7",
+     "problemPage": 245,
+     "solutionPage": 245,
+     "status": "pending",
+     "note": "OCR 锚点 '例9.7' (置信度 0.999, y=327pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例9.8",
+     "problemPage": 246,
+     "solutionPage": 247,
+     "status": "pending",
+     "note": "OCR 锚点 '例9.8' (置信度 0.996, y=607pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例9.9",
+     "problemPage": 247,
+     "solutionPage": 248,
+     "status": "pending",
+     "note": "OCR 锚点 '例9.9' (置信度 0.999, y=567pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例9.10",
+     "problemPage": 248,
+     "solutionPage": 248,
+     "status": "pending",
+     "note": "OCR 锚点 '例9.10' (置信度 0.998, y=517pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例9.11",
+     "problemPage": 249,
+     "solutionPage": 250,
+     "status": "pending",
+     "note": "OCR 锚点 '例9.11' (置信度 0.999, y=653pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例9.12",
+     "problemPage": 251,
+     "solutionPage": 251,
+     "status": "pending",
+     "note": "OCR 锚点 '例9.12' (置信度 0.998, y=499pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例9.13",
+     "problemPage": 252,
+     "solutionPage": 252,
+     "status": "pending",
+     "note": "OCR 锚点 '例9.13' (置信度 0.998, y=109pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例9.14",
+     "problemPage": 252,
+     "solutionPage": 252,
+     "status": "pending",
+     "note": "OCR 锚点 '例9.14' (置信度 0.998, y=484pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例9.15",
+     "problemPage": 253,
+     "solutionPage": 253,
+     "status": "pending",
+     "note": "OCR 锚点 '例9.15' (置信度 0.997, y=145pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例9.16",
+     "problemPage": 253,
+     "solutionPage": 253,
+     "status": "pending",
+     "note": "OCR 锚点 '例9.16' (置信度 0.999, y=421pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例9.17",
+     "problemPage": 253,
+     "solutionPage": 254,
+     "status": "pending",
+     "note": "OCR 锚点 '例9.17' (置信度 0.999, y=655pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例9.18",
+     "problemPage": 254,
+     "solutionPage": 254,
+     "status": "pending",
+     "note": "OCR 锚点 '例9.18' (置信度 0.998, y=301pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例9.19",
+     "problemPage": 254,
+     "solutionPage": 254,
+     "status": "pending",
+     "note": "OCR 锚点 '例9.19' (置信度 0.998, y=533pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例9.20",
+     "problemPage": 255,
+     "solutionPage": 255,
+     "status": "pending",
+     "note": "OCR 锚点 '例9.20' (置信度 0.999, y=499pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例9.21",
+     "problemPage": 255,
+     "solutionPage": 256,
+     "status": "pending",
+     "note": "OCR 锚点 '例9.21' (置信度 0.999, y=695pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例9.22",
+     "problemPage": 256,
+     "solutionPage": 257,
+     "status": "pending",
+     "note": "OCR 锚点 '例9.22' (置信度 0.998, y=670pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例9.23",
+     "problemPage": 258,
+     "solutionPage": 258,
+     "status": "pending",
+     "note": "OCR 锚点 '例9.23' (置信度 0.998, y=73pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例9.24",
+     "problemPage": 258,
+     "solutionPage": 258,
+     "status": "pending",
+     "note": "OCR 锚点 '例9.24' (置信度 0.998, y=309pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例9.25",
+     "problemPage": 258,
+     "solutionPage": 258,
+     "status": "pending",
+     "note": "OCR 锚点 '例9.25' (置信度 0.999, y=551pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例9.26",
+     "problemPage": 259,
+     "solutionPage": 259,
+     "status": "pending",
+     "note": "OCR 锚点 '例9.26' (置信度 0.999, y=367pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例9.27",
+     "problemPage": 259,
+     "solutionPage": 260,
+     "status": "pending",
+     "note": "OCR 锚点 '例9.27' (置信度 0.998, y=687pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例9.28",
+     "problemPage": 260,
+     "solutionPage": 260,
+     "status": "pending",
+     "note": "OCR 锚点 '例9.28' (置信度 0.998, y=193pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例9.29",
+     "problemPage": 261,
+     "solutionPage": 261,
+     "status": "pending",
+     "note": "OCR 锚点 '例9.29' (置信度 0.999, y=84pt)；解答自题干页起（估，±1页）"
+    }
+   ]
+  },
+  {
+   "lecture": 10,
+   "title": "一元函数积分学的应用（一）——几何应用",
+   "pdfStartPage": 269,
+   "pdfEndPage": 287,
+   "examples": [
+    {
+     "no": "例10.1",
+     "problemPage": 270,
+     "solutionPage": 271,
+     "status": "pending",
+     "note": "OCR 锚点 '例10.1' (置信度 0.998, y=647pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例10.2",
+     "problemPage": 271,
+     "solutionPage": 271,
+     "status": "pending",
+     "note": "OCR 锚点 '例10.2' (置信度 0.998, y=477pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例10.3",
+     "problemPage": 272,
+     "solutionPage": 272,
+     "status": "pending",
+     "note": "OCR 锚点 '例10.3' (置信度 0.998, y=424pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例10.4",
+     "problemPage": 272,
+     "solutionPage": 273,
+     "status": "pending",
+     "note": "OCR 锚点 '例10.4' (置信度 0.999, y=591pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例10.5",
+     "problemPage": 273,
+     "solutionPage": 274,
+     "status": "pending",
+     "note": "OCR 锚点 '例10.5' (置信度 0.999, y=568pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例10.6",
+     "problemPage": 274,
+     "solutionPage": 274,
+     "status": "pending",
+     "note": "OCR 锚点 '例10.6' (置信度 0.997, y=471pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例10.7",
+     "problemPage": 276,
+     "solutionPage": 276,
+     "status": "pending",
+     "note": "OCR 锚点 '例10.7' (置信度 0.999, y=223pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例10.8",
+     "problemPage": 277,
+     "solutionPage": 278,
+     "status": "pending",
+     "note": "OCR 锚点 '例10.8' (置信度 0.998, y=635pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例10.9",
+     "problemPage": 278,
+     "solutionPage": 279,
+     "status": "pending",
+     "note": "OCR 锚点 '例10.9' (置信度 0.999, y=647pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例10.10",
+     "problemPage": 279,
+     "solutionPage": 280,
+     "status": "pending",
+     "note": "OCR 锚点 '例10.10' (置信度 0.999, y=626pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例10.11",
+     "problemPage": 280,
+     "solutionPage": 280,
+     "status": "pending",
+     "note": "OCR 锚点 '例10.11' (置信度 0.999, y=202pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例10.12",
+     "problemPage": 280,
+     "solutionPage": 281,
+     "status": "pending",
+     "note": "OCR 锚点 '例10.12' (置信度 0.998, y=679pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例10.13",
+     "problemPage": 281,
+     "solutionPage": 281,
+     "status": "pending",
+     "note": "OCR 锚点 '例10.13' (置信度 0.999, y=186pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例10.14",
+     "problemPage": 281,
+     "solutionPage": 282,
+     "status": "pending",
+     "note": "OCR 锚点 '例10.14' (置信度 0.999, y=685pt)；题干近页底，解答主体约在次页（估，±1页）"
+    }
+   ]
+  },
+  {
+   "lecture": 11,
+   "title": "一元函数积分学的应用（二）——积分等式与积分不等式",
+   "pdfStartPage": 288,
+   "pdfEndPage": 299,
+   "examples": [
+    {
+     "no": "例11.3",
+     "problemPage": 288,
+     "solutionPage": 289,
+     "status": "pending",
+     "note": "OCR 锚点 '例11.3～11.5)与证明某些特殊' (置信度 0.967, y=682pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例11.10",
+     "problemPage": 289,
+     "solutionPage": 289,
+     "status": "pending",
+     "note": "OCR 锚点 '例11.10)与牛顿-莱布尼茨公式' (置信度 0.974, y=85pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例11.1",
+     "problemPage": 289,
+     "solutionPage": 289,
+     "status": "pending",
+     "note": "OCR 锚点 '例11.1' (置信度 0.999, y=198pt)；解答自题干页起（估，±1页）；注意：例号较前一条（10）未递增，疑 OCR 误读，需人工复核"
+    },
+    {
+     "no": "例11.2",
+     "problemPage": 290,
+     "solutionPage": 290,
+     "status": "pending",
+     "note": "OCR 锚点 '例11.2' (置信度 0.998, y=272pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例11.4",
+     "problemPage": 291,
+     "solutionPage": 291,
+     "status": "pending",
+     "note": "OCR 锚点 '例11.4' (置信度 0.999, y=391pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例11.5",
+     "problemPage": 292,
+     "solutionPage": 292,
+     "status": "pending",
+     "note": "OCR 锚点 '例11.5' (置信度 0.998, y=221pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例11.6",
+     "problemPage": 292,
+     "solutionPage": 292,
+     "status": "pending",
+     "note": "OCR 锚点 '例11.6' (置信度 0.998, y=561pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例11.7",
+     "problemPage": 293,
+     "solutionPage": 293,
+     "status": "pending",
+     "note": "OCR 锚点 '例11.7' (置信度 0.999, y=427pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例11.8",
+     "problemPage": 294,
+     "solutionPage": 294,
+     "status": "pending",
+     "note": "OCR 锚点 '例11.8' (置信度 0.998, y=208pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例11.9",
+     "problemPage": 294,
+     "solutionPage": 295,
+     "status": "pending",
+     "note": "OCR 锚点 '例11.9' (置信度 0.978, y=615pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例11.11",
+     "problemPage": 295,
+     "solutionPage": 295,
+     "status": "pending",
+     "note": "OCR 锚点 '例11.11' (置信度 0.999, y=527pt)；解答自题干页起（估，±1页）"
+    }
+   ]
+  },
+  {
+   "lecture": 12,
+   "title": "一元函数积分学的应用（三）——物理应用与经济应用",
+   "pdfStartPage": 300,
+   "pdfEndPage": 309,
+   "examples": [
+    {
+     "no": "例12.1",
+     "problemPage": 301,
+     "solutionPage": 301,
+     "status": "pending",
+     "note": "OCR 锚点 '例12.1' (置信度 0.999, y=302pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例12.2",
+     "problemPage": 302,
+     "solutionPage": 302,
+     "status": "pending",
+     "note": "OCR 锚点 '例12.2' (置信度 0.998, y=305pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例12.3",
+     "problemPage": 303,
+     "solutionPage": 303,
+     "status": "pending",
+     "note": "OCR 锚点 '例12.3' (置信度 0.944, y=301pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例12.4",
+     "problemPage": 307,
+     "solutionPage": 307,
+     "status": "pending",
+     "note": "OCR 锚点 '例12.4' (置信度 0.997, y=279pt)；解答自题干页起（估，±1页）"
+    }
+   ]
+  },
+  {
+   "lecture": 13,
+   "title": "多元函数微分学",
+   "pdfStartPage": 310,
+   "pdfEndPage": 343,
+   "examples": [
+    {
+     "no": "例13.1",
+     "problemPage": 312,
+     "solutionPage": 313,
+     "status": "pending",
+     "note": "OCR 锚点 '例13.1' (置信度 0.998, y=604pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例13.2",
+     "problemPage": 314,
+     "solutionPage": 314,
+     "status": "pending",
+     "note": "OCR 锚点 '例13.2' (置信度 0.998, y=71pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例13.3",
+     "problemPage": 315,
+     "solutionPage": 316,
+     "status": "pending",
+     "note": "OCR 锚点 '例13.3' (置信度 0.996, y=640pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例13.4",
+     "problemPage": 316,
+     "solutionPage": 316,
+     "status": "pending",
+     "note": "OCR 锚点 '例13.4' (置信度 0.997, y=540pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例13.5",
+     "problemPage": 317,
+     "solutionPage": 317,
+     "status": "pending",
+     "note": "OCR 锚点 '例13.5' (置信度 0.997, y=285pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例13.6",
+     "problemPage": 318,
+     "solutionPage": 318,
+     "status": "pending",
+     "note": "OCR 锚点 '例13.6' (置信度 0.998, y=76pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例13.7",
+     "problemPage": 321,
+     "solutionPage": 321,
+     "status": "pending",
+     "note": "OCR 锚点 '例13.7' (置信度 0.999, y=345pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例13.8",
+     "problemPage": 321,
+     "solutionPage": 322,
+     "status": "pending",
+     "note": "OCR 锚点 '例13.8' (置信度 0.999, y=623pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例13.9",
+     "problemPage": 323,
+     "solutionPage": 323,
+     "status": "pending",
+     "note": "OCR 锚点 '例13.9' (置信度 0.999, y=389pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例13.10",
+     "problemPage": 324,
+     "solutionPage": 324,
+     "status": "pending",
+     "note": "OCR 锚点 '例13.10' (置信度 0.999, y=268pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例13.11",
+     "problemPage": 324,
+     "solutionPage": 325,
+     "status": "pending",
+     "note": "OCR 锚点 '例13.11' (置信度 0.999, y=629pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例13.12",
+     "problemPage": 325,
+     "solutionPage": 325,
+     "status": "pending",
+     "note": "OCR 锚点 '例13.12' (置信度 0.998, y=457pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例13.13",
+     "problemPage": 326,
+     "solutionPage": 326,
+     "status": "pending",
+     "note": "OCR 锚点 '例13.13' (置信度 0.997, y=469pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例13.14",
+     "problemPage": 327,
+     "solutionPage": 327,
+     "status": "pending",
+     "note": "OCR 锚点 '例13.14' (置信度 0.999, y=255pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例13.15",
+     "problemPage": 327,
+     "solutionPage": 327,
+     "status": "pending",
+     "note": "OCR 锚点 '例13.15' (置信度 0.999, y=487pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例13.16",
+     "problemPage": 328,
+     "solutionPage": 328,
+     "status": "pending",
+     "note": "OCR 锚点 '例13.16' (置信度 0.999, y=132pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例13.17",
+     "problemPage": 330,
+     "solutionPage": 331,
+     "status": "pending",
+     "note": "OCR 锚点 '例13.17' (置信度 0.999, y=697pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例13.18",
+     "problemPage": 331,
+     "solutionPage": 331,
+     "status": "pending",
+     "note": "OCR 锚点 '例13.18' (置信度 0.997, y=339pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例13.19",
+     "problemPage": 333,
+     "solutionPage": 333,
+     "status": "pending",
+     "note": "OCR 锚点 '例13.19' (置信度 0.999, y=91pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例13.20",
+     "problemPage": 334,
+     "solutionPage": 334,
+     "status": "pending",
+     "note": "OCR 锚点 '例13.20' (置信度 0.999, y=163pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例13.21",
+     "problemPage": 335,
+     "solutionPage": 335,
+     "status": "pending",
+     "note": "OCR 锚点 '例13.21' (置信度 0.999, y=120pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例13.22",
+     "problemPage": 336,
+     "solutionPage": 336,
+     "status": "pending",
+     "note": "OCR 锚点 '例13.22' (置信度 0.999, y=413pt)；解答自题干页起（估，±1页）"
+    }
+   ]
+  },
+  {
+   "lecture": 14,
+   "title": "二重积分",
+   "pdfStartPage": 344,
+   "pdfEndPage": 382,
+   "examples": [
+    {
+     "no": "例14.1",
+     "problemPage": 347,
+     "solutionPage": 347,
+     "status": "pending",
+     "note": "OCR 锚点 '例14.1' (置信度 0.998, y=69pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例14.2",
+     "problemPage": 348,
+     "solutionPage": 348,
+     "status": "pending",
+     "note": "OCR 锚点 '例14.2' (置信度 0.999, y=282pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例14.3",
+     "problemPage": 351,
+     "solutionPage": 351,
+     "status": "pending",
+     "note": "OCR 锚点 '例14.3' (置信度 0.997, y=75pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例14.4",
+     "problemPage": 353,
+     "solutionPage": 353,
+     "status": "pending",
+     "note": "OCR 锚点 '例14.4' (置信度 0.998, y=229pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例14.5",
+     "problemPage": 354,
+     "solutionPage": 354,
+     "status": "pending",
+     "note": "OCR 锚点 '例14.5' (置信度 0.998, y=555pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例14.6",
+     "problemPage": 355,
+     "solutionPage": 355,
+     "status": "pending",
+     "note": "OCR 锚点 '例14.6' (置信度 0.998, y=267pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例14.7",
+     "problemPage": 356,
+     "solutionPage": 356,
+     "status": "pending",
+     "note": "OCR 锚点 '例14.7' (置信度 0.999, y=155pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例14.8",
+     "problemPage": 357,
+     "solutionPage": 357,
+     "status": "pending",
+     "note": "OCR 锚点 '例14.8' (置信度 0.999, y=245pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例14.9",
+     "problemPage": 357,
+     "solutionPage": 357,
+     "status": "pending",
+     "note": "OCR 锚点 '例14.9' (置信度 0.999, y=487pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例14.10",
+     "problemPage": 358,
+     "solutionPage": 359,
+     "status": "pending",
+     "note": "OCR 锚点 '例14.10' (置信度 0.999, y=616pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例14.11",
+     "problemPage": 359,
+     "solutionPage": 359,
+     "status": "pending",
+     "note": "OCR 锚点 '例14.11' (置信度 0.999, y=355pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例14.12",
+     "problemPage": 360,
+     "solutionPage": 360,
+     "status": "pending",
+     "note": "OCR 锚点 '例14.12' (置信度 0.999, y=148pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例14.13",
+     "problemPage": 360,
+     "solutionPage": 360,
+     "status": "pending",
+     "note": "OCR 锚点 '例14.13' (置信度 0.999, y=491pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例14.14",
+     "problemPage": 361,
+     "solutionPage": 361,
+     "status": "pending",
+     "note": "OCR 锚点 '例14.14' (置信度 0.999, y=365pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例14.15",
+     "problemPage": 363,
+     "solutionPage": 363,
+     "status": "pending",
+     "note": "OCR 锚点 '例14.15' (置信度 0.999, y=77pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例14.16",
+     "problemPage": 364,
+     "solutionPage": 365,
+     "status": "pending",
+     "note": "OCR 锚点 '例14.16' (置信度 0.998, y=641pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例14.17",
+     "problemPage": 365,
+     "solutionPage": 365,
+     "status": "pending",
+     "note": "OCR 锚点 '例14.17' (置信度 0.999, y=165pt)；解答自题干页起（估，±1页）"
+    }
+   ]
+  },
+  {
+   "lecture": 15,
+   "title": "微分方程",
+   "pdfStartPage": 383,
+   "pdfEndPage": 414,
+   "examples": [
+    {
+     "no": "例15.1",
+     "problemPage": 385,
+     "solutionPage": 385,
+     "status": "pending",
+     "note": "OCR 锚点 '例15.1' (置信度 0.999, y=440pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例15.2",
+     "problemPage": 386,
+     "solutionPage": 386,
+     "status": "pending",
+     "note": "OCR 锚点 '例15.2' (置信度 0.998, y=87pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例15.3",
+     "problemPage": 386,
+     "solutionPage": 386,
+     "status": "pending",
+     "note": "OCR 锚点 '例15.3' (置信度 0.996, y=439pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例15.4",
+     "problemPage": 387,
+     "solutionPage": 387,
+     "status": "pending",
+     "note": "OCR 锚点 '例15.4' (置信度 0.998, y=179pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例15.5",
+     "problemPage": 387,
+     "solutionPage": 387,
+     "status": "pending",
+     "note": "OCR 锚点 '例15.5' (置信度 0.998, y=512pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例15.6",
+     "problemPage": 388,
+     "solutionPage": 388,
+     "status": "pending",
+     "note": "OCR 锚点 '例15.6' (置信度 0.998, y=336pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例15.7",
+     "problemPage": 389,
+     "solutionPage": 390,
+     "status": "pending",
+     "note": "OCR 锚点 '例15.7' (置信度 0.999, y=657pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例15.8",
+     "problemPage": 390,
+     "solutionPage": 390,
+     "status": "pending",
+     "note": "OCR 锚点 '例15.8' (置信度 0.998, y=257pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例15.9",
+     "problemPage": 390,
+     "solutionPage": 390,
+     "status": "pending",
+     "note": "OCR 锚点 '例15.9' (置信度 0.999, y=510pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例15.10",
+     "problemPage": 391,
+     "solutionPage": 391,
+     "status": "pending",
+     "note": "OCR 锚点 '例15.10' (置信度 0.999, y=215pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例15.11",
+     "problemPage": 391,
+     "solutionPage": 391,
+     "status": "pending",
+     "note": "OCR 锚点 '例15.11' (置信度 0.999, y=523pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例15.12",
+     "problemPage": 392,
+     "solutionPage": 393,
+     "status": "pending",
+     "note": "OCR 锚点 '例15.12' (置信度 0.999, y=684pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例15.13",
+     "problemPage": 393,
+     "solutionPage": 393,
+     "status": "pending",
+     "note": "OCR 锚点 '例15.13' (置信度 0.999, y=471pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例15.14",
+     "problemPage": 394,
+     "solutionPage": 394,
+     "status": "pending",
+     "note": "OCR 锚点 '例15.14' (置信度 0.998, y=272pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例15.15",
+     "problemPage": 395,
+     "solutionPage": 395,
+     "status": "pending",
+     "note": "OCR 锚点 '例15.15' (置信度 0.999, y=300pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例15.16",
+     "problemPage": 395,
+     "solutionPage": 395,
+     "status": "pending",
+     "note": "OCR 锚点 '例15.16' (置信度 0.999, y=500pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例15.17",
+     "problemPage": 400,
+     "solutionPage": 401,
+     "status": "pending",
+     "note": "OCR 锚点 '例15.17' (置信度 0.998, y=674pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例15.18",
+     "problemPage": 401,
+     "solutionPage": 402,
+     "status": "pending",
+     "note": "OCR 锚点 '例15.18' (置信度 0.999, y=678pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例15.19",
+     "problemPage": 402,
+     "solutionPage": 403,
+     "status": "pending",
+     "note": "OCR 锚点 '例15.19' (置信度 0.999, y=659pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例15.20",
+     "problemPage": 403,
+     "solutionPage": 403,
+     "status": "pending",
+     "note": "OCR 锚点 '例15.20' (置信度 0.999, y=551pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例15.21",
+     "problemPage": 404,
+     "solutionPage": 405,
+     "status": "pending",
+     "note": "OCR 锚点 '例15.21' (置信度 0.999, y=641pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例15.22",
+     "problemPage": 405,
+     "solutionPage": 406,
+     "status": "pending",
+     "note": "OCR 锚点 '例15.22' (置信度 0.999, y=660pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例15.23",
+     "problemPage": 406,
+     "solutionPage": 406,
+     "status": "pending",
+     "note": "OCR 锚点 '例15.23' (置信度 0.999, y=437pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例15.24",
+     "problemPage": 408,
+     "solutionPage": 408,
+     "status": "pending",
+     "note": "OCR 锚点 '例15.24' (置信度 0.999, y=455pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例15.25",
+     "problemPage": 408,
+     "solutionPage": 409,
+     "status": "pending",
+     "note": "OCR 锚点 '例15.25' (置信度 0.999, y=651pt)；题干近页底，解答主体约在次页（估，±1页）"
+    }
+   ]
+  },
+  {
+   "lecture": 16,
+   "title": "无穷级数（仅数学一、数学三）",
+   "pdfStartPage": 415,
+   "pdfEndPage": 469,
+   "examples": [
+    {
+     "no": "例16.1",
+     "problemPage": 420,
+     "solutionPage": 420,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.1' (置信度 0.999, y=559pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例16.2",
+     "problemPage": 420,
+     "solutionPage": 421,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.2' (置信度 0.999, y=655pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例16.3",
+     "problemPage": 421,
+     "solutionPage": 421,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.3' (置信度 0.999, y=467pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例16.4",
+     "problemPage": 422,
+     "solutionPage": 422,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.4' (置信度 0.998, y=285pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例16.5",
+     "problemPage": 423,
+     "solutionPage": 423,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.5' (置信度 0.998, y=337pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例16.6",
+     "problemPage": 423,
+     "solutionPage": 423,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.6' (置信度 0.999, y=548pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例16.7",
+     "problemPage": 424,
+     "solutionPage": 424,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.7' (置信度 0.999, y=115pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例16.8",
+     "problemPage": 424,
+     "solutionPage": 425,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.8' (置信度 0.999, y=579pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例16.9",
+     "problemPage": 425,
+     "solutionPage": 425,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.9' (置信度 1.0, y=337pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例16.10",
+     "problemPage": 425,
+     "solutionPage": 425,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.10' (置信度 1.0, y=510pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例16.11",
+     "problemPage": 426,
+     "solutionPage": 426,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.11' (置信度 0.99, y=561pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例16.12",
+     "problemPage": 427,
+     "solutionPage": 427,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.12' (置信度 0.999, y=547pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例16.13",
+     "problemPage": 428,
+     "solutionPage": 428,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.13' (置信度 0.999, y=343pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例16.14",
+     "problemPage": 429,
+     "solutionPage": 429,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.14' (置信度 0.999, y=497pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例16.15",
+     "problemPage": 429,
+     "solutionPage": 430,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.15' (置信度 0.999, y=679pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例16.16",
+     "problemPage": 430,
+     "solutionPage": 430,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.16' (置信度 0.999, y=183pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例16.17",
+     "problemPage": 433,
+     "solutionPage": 433,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.17' (置信度 0.999, y=435pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例16.18",
+     "problemPage": 433,
+     "solutionPage": 434,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.18' (置信度 0.999, y=613pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例16.19",
+     "problemPage": 434,
+     "solutionPage": 434,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.19' (置信度 0.999, y=444pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例16.20",
+     "problemPage": 435,
+     "solutionPage": 435,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.20' (置信度 0.999, y=259pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例16.21",
+     "problemPage": 437,
+     "solutionPage": 437,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.21' (置信度 1.0, y=77pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例16.22",
+     "problemPage": 443,
+     "solutionPage": 444,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.22' (置信度 0.999, y=637pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例16.23",
+     "problemPage": 444,
+     "solutionPage": 444,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.23' (置信度 0.999, y=197pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例16.24",
+     "problemPage": 444,
+     "solutionPage": 444,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.24' (置信度 0.999, y=439pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例16.25",
+     "problemPage": 445,
+     "solutionPage": 445,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.25' (置信度 0.999, y=189pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例16.26",
+     "problemPage": 445,
+     "solutionPage": 445,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.26' (置信度 0.999, y=487pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例16.27",
+     "problemPage": 446,
+     "solutionPage": 446,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.27' (置信度 0.999, y=237pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例16.28",
+     "problemPage": 450,
+     "solutionPage": 450,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.28' (置信度 0.999, y=157pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例16.29",
+     "problemPage": 450,
+     "solutionPage": 450,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.29' (置信度 0.999, y=543pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例16.30",
+     "problemPage": 451,
+     "solutionPage": 451,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.30' (置信度 0.998, y=205pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例16.31",
+     "problemPage": 451,
+     "solutionPage": 451,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.31' (置信度 0.998, y=495pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例16.32",
+     "problemPage": 453,
+     "solutionPage": 453,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.32' (置信度 0.998, y=241pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例16.33",
+     "problemPage": 453,
+     "solutionPage": 453,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.33' (置信度 0.999, y=541pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例16.34",
+     "problemPage": 454,
+     "solutionPage": 454,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.34' (置信度 0.999, y=537pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例16.35",
+     "problemPage": 456,
+     "solutionPage": 456,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.35' (置信度 0.999, y=383pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例16.36",
+     "problemPage": 456,
+     "solutionPage": 457,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.36' (置信度 0.996, y=656pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例16.37",
+     "problemPage": 457,
+     "solutionPage": 457,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.37' (置信度 0.999, y=375pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例16.38",
+     "problemPage": 461,
+     "solutionPage": 461,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.38' (置信度 0.998, y=175pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例16.39",
+     "problemPage": 461,
+     "solutionPage": 461,
+     "status": "pending",
+     "note": "OCR 锚点 '例16.39' (置信度 0.999, y=520pt)；解答自题干页起（估，±1页）"
+    }
+   ]
+  },
+  {
+   "lecture": 17,
+   "title": "多元函数积分学的预备知识（仅数学一）",
+   "pdfStartPage": 470,
+   "pdfEndPage": 493,
+   "examples": [
+    {
+     "no": "例17.1",
+     "problemPage": 473,
+     "solutionPage": 473,
+     "status": "pending",
+     "note": "OCR 锚点 '例17.1' (置信度 0.997, y=449pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例17.2",
+     "problemPage": 477,
+     "solutionPage": 477,
+     "status": "pending",
+     "note": "OCR 锚点 '例17.2' (置信度 0.998, y=109pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例17.3",
+     "problemPage": 477,
+     "solutionPage": 477,
+     "status": "pending",
+     "note": "OCR 锚点 '例17.3' (置信度 0.997, y=390pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例17.4",
+     "problemPage": 477,
+     "solutionPage": 478,
+     "status": "pending",
+     "note": "OCR 锚点 '例17.4' (置信度 0.998, y=639pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例17.5",
+     "problemPage": 482,
+     "solutionPage": 483,
+     "status": "pending",
+     "note": "OCR 锚点 '例17.5' (置信度 0.971, y=615pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例17.6",
+     "problemPage": 484,
+     "solutionPage": 484,
+     "status": "pending",
+     "note": "OCR 锚点 '例17.6' (置信度 0.999, y=397pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例17.7",
+     "problemPage": 484,
+     "solutionPage": 484,
+     "status": "pending",
+     "note": "OCR 锚点 '例17.7' (置信度 0.997, y=554pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例17.8",
+     "problemPage": 485,
+     "solutionPage": 485,
+     "status": "pending",
+     "note": "OCR 锚点 '例17.8' (置信度 0.998, y=88pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例17.9",
+     "problemPage": 485,
+     "solutionPage": 485,
+     "status": "pending",
+     "note": "OCR 锚点 '例17.9' (置信度 0.999, y=208pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例17.10",
+     "problemPage": 487,
+     "solutionPage": 488,
+     "status": "pending",
+     "note": "OCR 锚点 '例17.10' (置信度 0.999, y=631pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例17.11",
+     "problemPage": 488,
+     "solutionPage": 488,
+     "status": "pending",
+     "note": "OCR 锚点 '例17.11' (置信度 0.997, y=183pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例17.12",
+     "problemPage": 488,
+     "solutionPage": 488,
+     "status": "pending",
+     "note": "OCR 锚点 '例17.12' (置信度 0.999, y=409pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例17.13",
+     "problemPage": 489,
+     "solutionPage": 489,
+     "status": "pending",
+     "note": "OCR 锚点 '例17.13' (置信度 0.999, y=379pt)；解答自题干页起（估，±1页）"
+    }
+   ]
+  },
+  {
+   "lecture": 18,
+   "title": "多元函数积分学（仅数学一）",
+   "pdfStartPage": 494,
+   "pdfEndPage": 551,
+   "examples": [
+    {
+     "no": "例18.1",
+     "problemPage": 504,
+     "solutionPage": 505,
+     "status": "pending",
+     "note": "OCR 锚点 '例18.1' (置信度 0.998, y=599pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例18.2",
+     "problemPage": 506,
+     "solutionPage": 506,
+     "status": "pending",
+     "note": "OCR 锚点 '例18.2' (置信度 0.998, y=377pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例18.3",
+     "problemPage": 508,
+     "solutionPage": 508,
+     "status": "pending",
+     "note": "OCR 锚点 '例18.3' (置信度 0.997, y=178pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例18.4",
+     "problemPage": 508,
+     "solutionPage": 508,
+     "status": "pending",
+     "note": "OCR 锚点 '例18.4' (置信度 0.996, y=348pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例18.5",
+     "problemPage": 510,
+     "solutionPage": 510,
+     "status": "pending",
+     "note": "OCR 锚点 '例18.5' (置信度 0.995, y=272pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例18.6",
+     "problemPage": 512,
+     "solutionPage": 512,
+     "status": "pending",
+     "note": "OCR 锚点 '例18.6' (置信度 0.997, y=279pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例18.7",
+     "problemPage": 512,
+     "solutionPage": 512,
+     "status": "pending",
+     "note": "OCR 锚点 '例18.7' (置信度 0.999, y=417pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例18.8",
+     "problemPage": 516,
+     "solutionPage": 516,
+     "status": "pending",
+     "note": "OCR 锚点 '例18.8' (置信度 0.998, y=71pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例18.9",
+     "problemPage": 516,
+     "solutionPage": 516,
+     "status": "pending",
+     "note": "OCR 锚点 '例18.9' (置信度 0.999, y=230pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例18.10",
+     "problemPage": 516,
+     "solutionPage": 516,
+     "status": "pending",
+     "note": "OCR 锚点 '例18.10' (置信度 0.999, y=431pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例18.11",
+     "problemPage": 518,
+     "solutionPage": 518,
+     "status": "pending",
+     "note": "OCR 锚点 '例18.11' (置信度 0.998, y=125pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例18.12",
+     "problemPage": 521,
+     "solutionPage": 521,
+     "status": "pending",
+     "note": "OCR 锚点 '例18.12' (置信度 0.998, y=300pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例18.13",
+     "problemPage": 522,
+     "solutionPage": 522,
+     "status": "pending",
+     "note": "OCR 锚点 '例18.13' (置信度 0.997, y=169pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例18.14",
+     "problemPage": 524,
+     "solutionPage": 524,
+     "status": "pending",
+     "note": "OCR 锚点 '例18.14' (置信度 0.999, y=186pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例18.15",
+     "problemPage": 527,
+     "solutionPage": 527,
+     "status": "pending",
+     "note": "OCR 锚点 '例18.15' (置信度 0.998, y=385pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例18.16",
+     "problemPage": 528,
+     "solutionPage": 528,
+     "status": "pending",
+     "note": "OCR 锚点 '例18.16' (置信度 0.998, y=146pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例18.17",
+     "problemPage": 529,
+     "solutionPage": 529,
+     "status": "pending",
+     "note": "OCR 锚点 '例18.17' (置信度 0.998, y=322pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例18.18",
+     "problemPage": 530,
+     "solutionPage": 530,
+     "status": "pending",
+     "note": "OCR 锚点 '例18.18' (置信度 0.998, y=151pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例18.19",
+     "problemPage": 531,
+     "solutionPage": 531,
+     "status": "pending",
+     "note": "OCR 锚点 '例18.19' (置信度 0.998, y=232pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例18.20",
+     "problemPage": 533,
+     "solutionPage": 534,
+     "status": "pending",
+     "note": "OCR 锚点 '例18.20' (置信度 0.998, y=584pt)；题干近页底，解答主体约在次页（估，±1页）"
+    },
+    {
+     "no": "例18.21",
+     "problemPage": 534,
+     "solutionPage": 534,
+     "status": "pending",
+     "note": "OCR 锚点 '例18.21' (置信度 0.998, y=182pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例18.22",
+     "problemPage": 538,
+     "solutionPage": 538,
+     "status": "pending",
+     "note": "OCR 锚点 '例18.22' (置信度 0.998, y=233pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例18.23",
+     "problemPage": 539,
+     "solutionPage": 539,
+     "status": "pending",
+     "note": "OCR 锚点 '例18.23' (置信度 0.999, y=377pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例18.24",
+     "problemPage": 539,
+     "solutionPage": 539,
+     "status": "pending",
+     "note": "OCR 锚点 '例18.24' (置信度 0.999, y=500pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例18.25",
+     "problemPage": 540,
+     "solutionPage": 540,
+     "status": "pending",
+     "note": "OCR 锚点 '例18.25' (置信度 0.998, y=385pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例18.26",
+     "problemPage": 541,
+     "solutionPage": 541,
+     "status": "pending",
+     "note": "OCR 锚点 '例18.26' (置信度 0.998, y=427pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例18.27",
+     "problemPage": 542,
+     "solutionPage": 542,
+     "status": "pending",
+     "note": "OCR 锚点 '例18.27' (置信度 0.999, y=154pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例18.28",
+     "problemPage": 543,
+     "solutionPage": 543,
+     "status": "pending",
+     "note": "OCR 锚点 '例18.28' (置信度 0.998, y=131pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例18.29",
+     "problemPage": 543,
+     "solutionPage": 543,
+     "status": "pending",
+     "note": "OCR 锚点 '例18.29' (置信度 0.998, y=543pt)；解答自题干页起（估，±1页）"
+    },
+    {
+     "no": "例18.30",
+     "problemPage": 545,
+     "solutionPage": 545,
+     "status": "pending",
+     "note": "OCR 锚点 '例18.30' (置信度 0.997, y=367pt)；解答自题干页起（估，±1页）"
+    }
+   ]
+  }
+ ],
+ "crossRefAnomalies": []
+}

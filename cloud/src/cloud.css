@@ -1,0 +1,9 @@
+.cloud-gate { position: fixed; z-index: 9999; inset: 0; display: grid; place-items: center; padding: 24px; background: #0b1528; color: #eef6ff; font-family: system-ui, sans-serif; }
+.cloud-gate[hidden], .cloud-banner[hidden] { display: none; }
+.cloud-card { width: min(420px, 100%); padding: 34px; border: 1px solid #334662; border-radius: 24px; background: #15243a; box-sizing: border-box; }
+.cloud-card h1 { margin: 18px 0 10px; font-size: 28px; }
+.cloud-card p { color: #b4c4d9; line-height: 1.7; }
+.cloud-mark { display: grid; place-items: center; width: 54px; height: 54px; border-radius: 16px; background: #65dfd0; color: #102532; font-size: 30px; font-weight: bold; }
+.cloud-card button { width: 100%; padding: 13px; border: 0; border-radius: 12px; background: #65dfd0; color: #102532; font-weight: bold; cursor: pointer; }
+.cloud-banner { position: fixed; z-index: 9998; top: 10px; right: 10px; max-width: min(680px, calc(100vw - 20px)); padding: 12px; border-radius: 12px; background: #fff1cf; color: #543600; box-shadow: 0 4px 20px #0003; font: 14px/1.5 system-ui, sans-serif; }
+.cloud-banner button { margin-left: 8px; padding: 5px 8px; border: 1px solid #c99e42; border-radius: 6px; background: white; color: #543600; cursor: pointer; }
